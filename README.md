@@ -1,10 +1,10 @@
-# smail.pw（smail-v3）
+# trashmail.space（smail-v3）
 
 基于 React Router Framework Mode + Cloudflare Workers 的临时邮箱服务。
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/akazwz/smail)
 
-- 线上域名：`https://smail.pw`
+- 线上域名：`https://trashmail.space`
 - Worker 名称：`smail-app`
 - 默认语言：`en`（同时支持 10 种语言）
 

@@ -1,15 +1,15 @@
-## smail.pw vs smailpro
+## trashmail.space vs smailpro
 
-Offizielle Klarstellung: **smail.pw ist ein unabhängiger Dienst**.
+Offizielle Klarstellung: **trashmail.space ist ein unabhängiger Dienst**.
 
 ### Wichtig
 
-- smail.pw ist nicht identisch mit smail pro oder smailpro
+- trashmail.space ist nicht identisch mit smail pro oder smailpro
 - Keine Zugehörigkeit zu ähnlich benannten Diensten
 - Funktionen und Richtlinien werden separat betrieben
 
 ### Verwandte Seiten
 
-- [Über smail.pw](/about)
+- [Über trashmail.space](/about)
 - [FAQ](/faq)
 - [Datenschutzrichtlinie](/privacy)

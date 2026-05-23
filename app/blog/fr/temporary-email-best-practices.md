@@ -15,7 +15,7 @@ Une boîte temporaire est idéale pour :
 
 ### 2) Considérez chaque boîte temporaire comme éphémère
 
-Sur smail.pw, les emails sont conservés jusqu'à 24 heures. Voyez cela comme une fenêtre d'expiration, pas comme un stockage durable.
+Sur trashmail.space, les emails sont conservés jusqu'à 24 heures. Voyez cela comme une fenêtre d'expiration, pas comme un stockage durable.
 
 Si un message est important, sauvegardez les informations immédiatement.
 

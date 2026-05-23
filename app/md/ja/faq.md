@@ -1,6 +1,6 @@
-## smail.pw よくある質問
+## trashmail.space よくある質問
 
-### smail.pw とは？
+### trashmail.space とは？
 短期利用向けの一時メールサービスです。
 
 ### 登録は必要ですか？

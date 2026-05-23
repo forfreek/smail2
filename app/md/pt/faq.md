@@ -1,6 +1,6 @@
-## FAQ do smail.pw
+## FAQ do trashmail.space
 
-### O que é o smail.pw?
+### O que é o trashmail.space?
 É um serviço de email temporário para recebimento de curta duração.
 
 ### Precisa de cadastro?

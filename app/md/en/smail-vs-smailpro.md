@@ -1,11 +1,11 @@
-## smail.pw vs smailpro (Brand Clarification)
+## trashmail.space vs smailpro (Brand Clarification)
 
-This page clarifies a frequent search query: **smail.pw is an independent temporary email service**.
+This page clarifies a frequent search query: **trashmail.space is an independent temporary email service**.
 
 ### Important clarification
 
-- smail.pw is not the same product as smail pro or smailpro.
-- smail.pw is not affiliated with similarly named temp mail brands.
+- trashmail.space is not the same product as smail pro or smailpro.
+- trashmail.space is not affiliated with similarly named temp mail brands.
 - Product features, policies, and infrastructure are managed independently.
 
 ### Why this matters
@@ -14,6 +14,6 @@ Users often compare similarly named services before registration or OTP workflow
 
 ### Related pages
 
-- [About smail.pw](/about)
+- [About trashmail.space](/about)
 - [FAQ](/faq)
 - [Privacy Policy](/privacy)

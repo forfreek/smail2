@@ -1,6 +1,6 @@
 ## Termos de uso
 
-Ao usar o smail.pw, você concorda com estes termos.
+Ao usar o trashmail.space, você concorda com estes termos.
 
 ### Uso permitido
 

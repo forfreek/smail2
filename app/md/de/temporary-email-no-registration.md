@@ -1,6 +1,6 @@
 ## Temporäre E-Mail ohne Registrierung
 
-Mit smail.pw empfängst du E-Mails ohne Konto und ohne Passwort.
+Mit trashmail.space empfängst du E-Mails ohne Konto und ohne Passwort.
 
 ### Typische Szenarien
 

@@ -15,7 +15,7 @@ Evita usarlo para banca, trabajo, impuestos, trámites legales o cuentas clave d
 
 ### 2) Asume que cada buzón temporal dura poco
 
-En smail.pw, el contenido se conserva hasta 24 horas. Trátalo como una ventana de caducidad, no como almacenamiento permanente.
+En trashmail.space, el contenido se conserva hasta 24 horas. Trátalo como una ventana de caducidad, no como almacenamiento permanente.
 
 Si un mensaje es importante, guarda la información de inmediato.
 

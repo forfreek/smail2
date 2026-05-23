@@ -11,7 +11,7 @@ Need a mailbox just for sign-up? Use **temporary email for registration** when y
 
 ### Workflow
 
-1. Generate a disposable address on smail.pw.
+1. Generate a disposable address on trashmail.space.
 2. Paste it into the registration form.
 3. Open your temporary inbox and get the code/link.
 4. Finish registration and keep your main mailbox private.

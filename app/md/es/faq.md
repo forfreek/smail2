@@ -1,6 +1,6 @@
-## Preguntas frecuentes de smail.pw
+## Preguntas frecuentes de trashmail.space
 
-### ¿Qué es smail.pw?
+### ¿Qué es trashmail.space?
 Es un servicio de correo temporal para recibir mensajes de uso corto.
 
 ### ¿Necesito crear cuenta?

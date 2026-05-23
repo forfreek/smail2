@@ -10,7 +10,7 @@ Utilisez un **email temporaire pour inscription** afin de valider un compte sans
 
 ### Étapes
 
-1. Générez une adresse temporaire sur smail.pw.
+1. Générez une adresse temporaire sur trashmail.space.
 2. Collez-la dans le formulaire d'inscription.
 3. Récupérez le code OTP ou le lien de confirmation.
 4. Finalisez l'inscription sans exposer votre email personnel.

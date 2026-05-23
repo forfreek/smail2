@@ -1,6 +1,6 @@
-## Über smail.pw (Temporäre E-Mail)
+## Über trashmail.space (Temporäre E-Mail)
 
-smail.pw ist ein Dienst für **temporäre E-Mail** bei risikoarmen Registrierungen, OTP-Codes und einmaligen Verifizierungen.
+trashmail.space ist ein Dienst für **temporäre E-Mail** bei risikoarmen Registrierungen, OTP-Codes und einmaligen Verifizierungen.
 
 ### Wofür es gedacht ist
 

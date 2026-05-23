@@ -15,7 +15,7 @@ Avoid using temporary email for banking, work identity, tax, legal, or core reco
 
 ### 2) Assume every temporary inbox is short-lived
 
-On smail.pw, email content is retained for up to 24 hours. Treat that as an expiration window, not long-term storage.
+On trashmail.space, email content is retained for up to 24 hours. Treat that as an expiration window, not long-term storage.
 
 If a message matters, copy critical details immediately.
 

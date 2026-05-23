@@ -15,7 +15,7 @@ Nicht geeignet für Banking, Arbeitsidentität, Steuer- oder Rechtsthemen sowie 
 
 ### 2) Immer von kurzer Lebensdauer ausgehen
 
-Bei smail.pw werden Inhalte bis zu 24 Stunden aufbewahrt. Das ist ein Ablaufzeitfenster, kein Langzeitspeicher.
+Bei trashmail.space werden Inhalte bis zu 24 Stunden aufbewahrt. Das ist ein Ablaufzeitfenster, kein Langzeitspeicher.
 
 Wenn eine Nachricht wichtig ist, sichere die relevanten Daten sofort.
 

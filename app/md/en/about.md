@@ -1,8 +1,8 @@
-## About smail.pw Temporary Email
+## About trashmail.space Temporary Email
 
-smail.pw is a lightweight **temporary email generator** for short-term inbox use. You can create a disposable address in seconds, receive verification emails, and keep your real inbox cleaner.
+trashmail.space is a lightweight **temporary email generator** for short-term inbox use. You can create a disposable address in seconds, receive verification emails, and keep your real inbox cleaner.
 
-### Why smail.pw exists
+### Why trashmail.space exists
 
 Most websites now ask for an email before you can continue. For low-risk actions, this usually creates unnecessary costs:
 
@@ -10,7 +10,7 @@ Most websites now ask for an email before you can continue. For low-risk actions
 - More exposure of your long-term identity email
 - More account noise to manage later
 
-smail.pw gives you a simple alternative: use a temporary mailbox first, then switch to your permanent email only when needed.
+trashmail.space gives you a simple alternative: use a temporary mailbox first, then switch to your permanent email only when needed.
 
 ### Typical use cases
 
@@ -19,7 +19,7 @@ smail.pw gives you a simple alternative: use a temporary mailbox first, then swi
 - QA/testing flows that require email delivery
 - Low-risk registration where you do not need long-term inbox history
 
-### What makes smail.pw different
+### What makes trashmail.space different
 
 - Fast inbox creation, no onboarding friction
 - 24-hour retention window for delayed emails
@@ -27,7 +27,7 @@ smail.pw gives you a simple alternative: use a temporary mailbox first, then swi
 
 ### Important boundaries
 
-smail.pw is not designed for critical identity workflows. Do not use temporary email for:
+trashmail.space is not designed for critical identity workflows. Do not use temporary email for:
 
 - Banking or payment accounts
 - Work and government systems

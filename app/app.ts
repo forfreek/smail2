@@ -16,7 +16,7 @@ const requestHandler = createRequestHandler(
 	import.meta.env.MODE,
 );
 
-export default {
+trashmail.space {
 	// 1. 【保持原样】处理网页访问和接收邮件（这是你原本的代码，原封不动）
 	async fetch(request, env, ctx) {
 		return requestHandler(request, {

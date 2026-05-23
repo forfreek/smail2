@@ -1,15 +1,15 @@
-## smail.pw مقابل smailpro
+## trashmail.space مقابل smailpro
 
-توضيح رسمي: **smail.pw خدمة مستقلة**.
+توضيح رسمي: **trashmail.space خدمة مستقلة**.
 
 ### نقاط مهمة
 
-- smail.pw ليس نفس منتج smail pro / smailpro
+- trashmail.space ليس نفس منتج smail pro / smailpro
 - لا توجد علاقة تبعية مع خدمات مشابهة الاسم
 - الميزات والسياسات تُدار بشكل مستقل
 
 ### صفحات مرتبطة
 
-- [حول smail.pw](/about)
+- [حول trashmail.space](/about)
 - [الأسئلة الشائعة](/faq)
 - [سياسة الخصوصية](/privacy)

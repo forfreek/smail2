@@ -1,6 +1,6 @@
 ## Email temporário sem cadastro
 
-Com o smail.pw, você recebe emails sem criar conta ou senha.
+Com o trashmail.space, você recebe emails sem criar conta ou senha.
 
 ### Cenários comuns
 

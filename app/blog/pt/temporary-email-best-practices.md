@@ -15,7 +15,7 @@ Evite usar para banco, identidade de trabalho, impostos, assuntos legais ou cont
 
 ### 2) Considere a caixa temporária como curta
 
-No smail.pw, o conteúdo é retido por até 24 horas. Trate isso como janela de expiração, não armazenamento permanente.
+No trashmail.space, o conteúdo é retido por até 24 horas. Trate isso como janela de expiração, não armazenamento permanente.
 
 Se a mensagem for importante, salve os dados na hora.
 

@@ -10,7 +10,7 @@ Usa **correo temporal para registro** cuando necesitas verificar una cuenta sin 
 
 ### Pasos recomendados
 
-1. Genera una dirección temporal en smail.pw.
+1. Genera una dirección temporal en trashmail.space.
 2. Úsala en el formulario de registro.
 3. Abre la bandeja temporal para recibir OTP o enlace.
 4. Completa el alta sin comprometer tu correo personal.

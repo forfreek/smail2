@@ -58,9 +58,9 @@ type FaqEntry = {
 const FAQ_JSON_LD_COPY: Partial<Record<Locale, FaqEntry[]>> = {
 	en: [
 		{
-			question: "What is smail.pw?",
+			question: "What is trashmail.space?",
 			answer:
-				"smail.pw is a temporary email service for disposable inboxes used in low-risk sign-ups and verifications.",
+				"trashmail.space is a temporary email service for disposable inboxes used in low-risk sign-ups and verifications.",
 		},
 		{
 			question: "How long are emails kept?",
@@ -77,15 +77,15 @@ const FAQ_JSON_LD_COPY: Partial<Record<Locale, FaqEntry[]>> = {
 				"No. Use a permanent secure mailbox for banking, work, legal, and recovery-critical services.",
 		},
 		{
-			question: "Is smail.pw the same as smail pro or smailpro?",
+			question: "Is trashmail.space the same as smail pro or smailpro?",
 			answer:
-				"No. smail.pw is an independent temporary email service and is not affiliated with other similarly named sites.",
+				"No. trashmail.space is an independent temporary email service and is not affiliated with other similarly named sites.",
 		},
 	],
 	zh: [
 		{
-			question: "smail.pw 是什么？",
-			answer: "smail.pw 是临时邮箱服务，可用于低风险注册和验证码接收。",
+			question: "trashmail.space 是什么？",
+			answer: "trashmail.space 是临时邮箱服务，可用于低风险注册和验证码接收。",
 		},
 		{
 			question: "邮件会保留多久？",
@@ -100,8 +100,8 @@ const FAQ_JSON_LD_COPY: Partial<Record<Locale, FaqEntry[]>> = {
 			answer: "不建议。银行、工作、法律和账号找回等重要场景请使用长期邮箱。",
 		},
 		{
-			question: "smail.pw 和 smail pro / smailpro 是同一个吗？",
-			answer: "不是。smail.pw 是独立站点，与其他同名或近似名称服务没有关联。",
+			question: "trashmail.space 和 smail pro / smailpro 是同一个吗？",
+			answer: "不是。trashmail.space 是独立站点，与其他同名或近似名称服务没有关联。",
 		},
 		{
 			question: "国内临时邮箱收不到验证码怎么办？",
@@ -111,9 +111,9 @@ const FAQ_JSON_LD_COPY: Partial<Record<Locale, FaqEntry[]>> = {
 	],
 	es: [
 		{
-			question: "¿Qué es smail.pw?",
+			question: "¿Qué es trashmail.space?",
 			answer:
-				"smail.pw es un servicio de correo temporal para registros y verificación de bajo riesgo.",
+				"trashmail.space es un servicio de correo temporal para registros y verificación de bajo riesgo.",
 		},
 		{
 			question: "¿Cuánto tiempo se guardan los correos?",
@@ -135,16 +135,16 @@ const FAQ_JSON_LD_COPY: Partial<Record<Locale, FaqEntry[]>> = {
 				"Normalmente no. En la mayoría de casos es un buzón de recepción para OTP y verificación.",
 		},
 		{
-			question: "¿smail.pw es lo mismo que smailpro?",
+			question: "¿trashmail.space es lo mismo que smailpro?",
 			answer:
-				"No. smail.pw es un servicio independiente y no está afiliado con marcas similares.",
+				"No. trashmail.space es un servicio independiente y no está afiliado con marcas similares.",
 		},
 	],
 	fr: [
 		{
-			question: "Qu'est-ce que smail.pw ?",
+			question: "Qu'est-ce que trashmail.space ?",
 			answer:
-				"smail.pw est un service d'email temporaire pour inscriptions et vérifications à faible risque.",
+				"trashmail.space est un service d'email temporaire pour inscriptions et vérifications à faible risque.",
 		},
 		{
 			question: "Combien de temps les emails sont-ils conservés ?",
@@ -166,16 +166,16 @@ const FAQ_JSON_LD_COPY: Partial<Record<Locale, FaqEntry[]>> = {
 				"En général non. La plupart des boîtes temporaires sont conçues pour la réception OTP et vérification.",
 		},
 		{
-			question: "smail.pw est-il identique à smailpro ?",
+			question: "trashmail.space est-il identique à smailpro ?",
 			answer:
-				"Non. smail.pw est un service indépendant sans affiliation avec des marques au nom proche.",
+				"Non. trashmail.space est un service indépendant sans affiliation avec des marques au nom proche.",
 		},
 	],
 	de: [
 		{
-			question: "Was ist smail.pw?",
+			question: "Was ist trashmail.space?",
 			answer:
-				"smail.pw ist ein Dienst für temporäre E-Mails bei risikoarmen Registrierungen und Verifizierungen.",
+				"trashmail.space ist ein Dienst für temporäre E-Mails bei risikoarmen Registrierungen und Verifizierungen.",
 		},
 		{
 			question: "Wie lange werden Nachrichten gespeichert?",
@@ -197,15 +197,15 @@ const FAQ_JSON_LD_COPY: Partial<Record<Locale, FaqEntry[]>> = {
 				"Meist nicht. In der Regel ist Temp-Mail für Empfang von OTP- und Bestätigungsnachrichten gedacht.",
 		},
 		{
-			question: "Ist smail.pw dasselbe wie smailpro?",
+			question: "Ist trashmail.space dasselbe wie smailpro?",
 			answer:
-				"Nein. smail.pw ist ein unabhängiger Dienst ohne Zugehörigkeit zu ähnlich benannten Marken.",
+				"Nein. trashmail.space ist ein unabhängiger Dienst ohne Zugehörigkeit zu ähnlich benannten Marken.",
 		},
 	],
 	ja: [
 		{
-			question: "smail.pw とは？",
-			answer: "smail.pw は低リスクな登録や認証向けの一時メールサービスです。",
+			question: "trashmail.space とは？",
+			answer: "trashmail.space は低リスクな登録や認証向けの一時メールサービスです。",
 		},
 		{
 			question: "メールはどれくらい保存されますか？",
@@ -226,15 +226,15 @@ const FAQ_JSON_LD_COPY: Partial<Record<Locale, FaqEntry[]>> = {
 				"通常はできません。多くの一時メールはOTPや確認メールの受信専用です。",
 		},
 		{
-			question: "smail.pw は smailpro と同じですか？",
+			question: "trashmail.space は smailpro と同じですか？",
 			answer:
-				"いいえ。smail.pw は独立サービスで、類似名称サービスとの提携はありません。",
+				"いいえ。trashmail.space は独立サービスで、類似名称サービスとの提携はありません。",
 		},
 	],
 	ko: [
 		{
-			question: "smail.pw는 무엇인가요?",
-			answer: "smail.pw는 저위험 가입과 인증을 위한 임시 이메일 서비스입니다.",
+			question: "trashmail.space는 무엇인가요?",
+			answer: "trashmail.space는 저위험 가입과 인증을 위한 임시 이메일 서비스입니다.",
 		},
 		{
 			question: "메일은 얼마나 보관되나요?",
@@ -255,16 +255,16 @@ const FAQ_JSON_LD_COPY: Partial<Record<Locale, FaqEntry[]>> = {
 				"보통 불가능합니다. 대부분 OTP와 확인 메일 수신 전용으로 설계됩니다.",
 		},
 		{
-			question: "smail.pw는 smailpro와 같은 서비스인가요?",
+			question: "trashmail.space는 smailpro와 같은 서비스인가요?",
 			answer:
-				"아니요. smail.pw는 독립 서비스이며 유사 명칭 브랜드와 제휴되어 있지 않습니다.",
+				"아니요. trashmail.space는 독립 서비스이며 유사 명칭 브랜드와 제휴되어 있지 않습니다.",
 		},
 	],
 	ru: [
 		{
-			question: "Что такое smail.pw?",
+			question: "Что такое trashmail.space?",
 			answer:
-				"smail.pw — сервис временной почты для низкорисковых регистраций и подтверждений.",
+				"trashmail.space — сервис временной почты для низкорисковых регистраций и подтверждений.",
 		},
 		{
 			question: "Сколько хранятся письма?",
@@ -285,16 +285,16 @@ const FAQ_JSON_LD_COPY: Partial<Record<Locale, FaqEntry[]>> = {
 				"Обычно нет. Временные ящики чаще всего работают только для приема OTP и подтверждений.",
 		},
 		{
-			question: "smail.pw это то же самое, что smailpro?",
+			question: "trashmail.space это то же самое, что smailpro?",
 			answer:
-				"Нет. smail.pw — независимый сервис и не связан с похожими брендами.",
+				"Нет. trashmail.space — независимый сервис и не связан с похожими брендами.",
 		},
 	],
 	pt: [
 		{
-			question: "O que é o smail.pw?",
+			question: "O que é o trashmail.space?",
 			answer:
-				"smail.pw é um serviço de email temporário para cadastro e verificação de baixo risco.",
+				"trashmail.space é um serviço de email temporário para cadastro e verificação de baixo risco.",
 		},
 		{
 			question: "Por quanto tempo os emails ficam disponíveis?",
@@ -316,15 +316,15 @@ const FAQ_JSON_LD_COPY: Partial<Record<Locale, FaqEntry[]>> = {
 				"Normalmente não. Em geral ele é voltado ao recebimento de OTP e emails de confirmação.",
 		},
 		{
-			question: "smail.pw é o mesmo serviço que smailpro?",
+			question: "trashmail.space é o mesmo serviço que smailpro?",
 			answer:
-				"Não. smail.pw é independente e não possui afiliação com marcas de nome parecido.",
+				"Não. trashmail.space é independente e não possui afiliação com marcas de nome parecido.",
 		},
 	],
 	ar: [
 		{
-			question: "ما هو smail.pw؟",
-			answer: "smail.pw خدمة بريد مؤقت لعمليات التسجيل والتحقق منخفضة المخاطر.",
+			question: "ما هو trashmail.space؟",
+			answer: "trashmail.space خدمة بريد مؤقت لعمليات التسجيل والتحقق منخفضة المخاطر.",
 		},
 		{
 			question: "كم مدة الاحتفاظ بالرسائل؟",
@@ -345,9 +345,9 @@ const FAQ_JSON_LD_COPY: Partial<Record<Locale, FaqEntry[]>> = {
 				"غالبًا لا. معظم خدمات البريد المؤقت مخصصة لاستقبال OTP ورسائل التحقق فقط.",
 		},
 		{
-			question: "هل smail.pw هو نفسه smailpro؟",
+			question: "هل trashmail.space هو نفسه smailpro؟",
 			answer:
-				"لا. smail.pw خدمة مستقلة وغير تابعة لخدمات أخرى ذات أسماء مشابهة.",
+				"لا. trashmail.space خدمة مستقلة وغير تابعة لخدمات أخرى ذات أسماء مشابهة.",
 		},
 	],
 };
@@ -360,466 +360,466 @@ const mdMetaCopy: Record<
 > = {
 	about: {
 		en: {
-			title: "About smail.pw | Temporary Email & Temp Mail Generator",
+			title: "About trashmail.space | Temporary Email & Temp Mail Generator",
 			description:
-				"Learn how smail.pw temporary email works, when to use temp mail, and important limits for disposable inbox workflows.",
+				"Learn how trashmail.space temporary email works, when to use temp mail, and important limits for disposable inbox workflows.",
 		},
 		zh: {
-			title: "关于 smail.pw | 临时邮箱生成器",
+			title: "关于 trashmail.space | 临时邮箱生成器",
 			description:
-				"了解 smail.pw 临时邮箱生成器的用途、适用场景与一次性邮箱使用边界。",
+				"了解 trashmail.space 临时邮箱生成器的用途、适用场景与一次性邮箱使用边界。",
 		},
 		es: {
-			title: "Acerca de smail.pw | Correo temporal",
+			title: "Acerca de trashmail.space | Correo temporal",
 			description:
-				"Conoce qué es smail.pw, cuándo usar correo temporal y qué límites tiene un buzón desechable.",
+				"Conoce qué es trashmail.space, cuándo usar correo temporal y qué límites tiene un buzón desechable.",
 		},
 		fr: {
-			title: "À propos de smail.pw | Email temporaire",
+			title: "À propos de trashmail.space | Email temporaire",
 			description:
-				"Découvrez ce qu'est smail.pw, quand utiliser un email temporaire et ses limites importantes.",
+				"Découvrez ce qu'est trashmail.space, quand utiliser un email temporaire et ses limites importantes.",
 		},
 		de: {
-			title: "Über smail.pw | Temporäre E-Mail",
+			title: "Über trashmail.space | Temporäre E-Mail",
 			description:
-				"Erfahre, was smail.pw ist, wann temporäre E-Mails sinnvoll sind und welche Grenzen gelten.",
+				"Erfahre, was trashmail.space ist, wann temporäre E-Mails sinnvoll sind und welche Grenzen gelten.",
 		},
 		ja: {
-			title: "smail.pw について | 一時メール",
+			title: "trashmail.space について | 一時メール",
 			description:
-				"smail.pw の用途、一時メールが有効な場面、利用上の重要な制約を確認できます。",
+				"trashmail.space の用途、一時メールが有効な場面、利用上の重要な制約を確認できます。",
 		},
 		ko: {
-			title: "smail.pw 소개 | 임시 이메일",
+			title: "trashmail.space 소개 | 임시 이메일",
 			description:
-				"smail.pw의 목적, 임시 이메일 사용이 적합한 상황, 이용 시 한계를 확인하세요.",
+				"trashmail.space의 목적, 임시 이메일 사용이 적합한 상황, 이용 시 한계를 확인하세요.",
 		},
 		ru: {
-			title: "О smail.pw | Временная почта",
+			title: "О trashmail.space | Временная почта",
 			description:
-				"Узнайте, что такое smail.pw, когда использовать временную почту и какие есть ограничения.",
+				"Узнайте, что такое trashmail.space, когда использовать временную почту и какие есть ограничения.",
 		},
 		pt: {
-			title: "Sobre o smail.pw | Email temporário",
+			title: "Sobre o trashmail.space | Email temporário",
 			description:
-				"Entenda o que é o smail.pw, quando usar email temporário e quais limites você deve considerar.",
+				"Entenda o que é o trashmail.space, quando usar email temporário e quais limites você deve considerar.",
 		},
 		ar: {
-			title: "حول smail.pw | بريد مؤقت",
+			title: "حول trashmail.space | بريد مؤقت",
 			description:
-				"تعرّف على smail.pw ومتى تستخدم البريد المؤقت وما الحدود المهمة التي يجب الانتباه لها.",
+				"تعرّف على trashmail.space ومتى تستخدم البريد المؤقت وما الحدود المهمة التي يجب الانتباه لها.",
 		},
 	},
 	faq: {
 		en: {
-			title: "Temporary Email FAQ (OTP, Temp Mail, Delivery) | smail.pw",
+			title: "Temporary Email FAQ (OTP, Temp Mail, Delivery) | trashmail.space",
 			description:
-				"Temporary email FAQ covering temp mail setup, 24-hour retention, OTP delivery issues, and disposable inbox safety limits on smail.pw.",
+				"Temporary email FAQ covering temp mail setup, 24-hour retention, OTP delivery issues, and disposable inbox safety limits on trashmail.space.",
 		},
 		zh: {
-			title: "临时邮箱常见问题（验证码/收信/注册）| smail.pw",
+			title: "临时邮箱常见问题（验证码/收信/注册）| trashmail.space",
 			description:
 				"临时邮箱与一次性邮箱常见问题：24小时保留、验证码收信异常、临时邮箱注册场景、使用限制与安全建议。",
 		},
 		es: {
-			title: "Preguntas frecuentes | smail.pw",
+			title: "Preguntas frecuentes | trashmail.space",
 			description:
 				"Consulta dudas comunes sobre uso del correo temporal, retención, entrega de mensajes y límites del servicio.",
 		},
 		fr: {
-			title: "FAQ | smail.pw email temporaire",
+			title: "FAQ | trashmail.space email temporaire",
 			description:
 				"Retrouvez les questions courantes sur l'usage, la rétention, la livraison des emails et les limites du service.",
 		},
 		de: {
-			title: "FAQ | smail.pw temporäre E-Mail",
+			title: "FAQ | trashmail.space temporäre E-Mail",
 			description:
 				"Häufige Fragen zu Nutzung, Aufbewahrung, Zustellproblemen und Servicegrenzen der temporären E-Mail.",
 		},
 		ja: {
-			title: "よくある質問 | smail.pw 一時メール",
+			title: "よくある質問 | trashmail.space 一時メール",
 			description:
 				"一時メールの使い方、保持期間、受信トラブル、サービス制限に関する主な質問をまとめています。",
 		},
 		ko: {
-			title: "자주 묻는 질문 | smail.pw 임시 이메일",
+			title: "자주 묻는 질문 | trashmail.space 임시 이메일",
 			description:
 				"임시 이메일 사용법, 보관 기간, 수신 문제, 서비스 제한에 대한 주요 질문을 확인하세요.",
 		},
 		ru: {
-			title: "FAQ | smail.pw временная почта",
+			title: "FAQ | trashmail.space временная почта",
 			description:
 				"Частые вопросы о временной почте: использование, срок хранения, доставка писем и ограничения сервиса.",
 		},
 		pt: {
-			title: "Perguntas frequentes | smail.pw",
+			title: "Perguntas frequentes | trashmail.space",
 			description:
 				"Veja dúvidas comuns sobre uso do email temporário, retenção de mensagens, entrega e limites do serviço.",
 		},
 		ar: {
-			title: "الأسئلة الشائعة | smail.pw",
+			title: "الأسئلة الشائعة | trashmail.space",
 			description:
 				"اطّلع على الأسئلة الشائعة حول استخدام البريد المؤقت ومدة الاحتفاظ ومشكلات الاستلام وحدود الخدمة.",
 		},
 	},
 	privacy: {
 		en: {
-			title: "Privacy Policy | smail.pw",
+			title: "Privacy Policy | trashmail.space",
 			description:
-				"See what data smail.pw may process, how long temporary data is retained, and how privacy is handled.",
+				"See what data trashmail.space may process, how long temporary data is retained, and how privacy is handled.",
 		},
 		zh: {
-			title: "隐私政策 | smail.pw",
-			description: "查看 smail.pw 可能处理的数据类型、保留周期与隐私处理方式。",
+			title: "隐私政策 | trashmail.space",
+			description: "查看 trashmail.space 可能处理的数据类型、保留周期与隐私处理方式。",
 		},
 		es: {
-			title: "Política de privacidad | smail.pw",
+			title: "Política de privacidad | trashmail.space",
 			description:
-				"Consulta qué datos puede tratar smail.pw, cuánto tiempo se conservan y cómo se protege la privacidad.",
+				"Consulta qué datos puede tratar trashmail.space, cuánto tiempo se conservan y cómo se protege la privacidad.",
 		},
 		fr: {
-			title: "Politique de confidentialité | smail.pw",
+			title: "Politique de confidentialité | trashmail.space",
 			description:
-				"Découvrez quelles données smail.pw peut traiter, leur durée de conservation et la gestion de la confidentialité.",
+				"Découvrez quelles données trashmail.space peut traiter, leur durée de conservation et la gestion de la confidentialité.",
 		},
 		de: {
-			title: "Datenschutzrichtlinie | smail.pw",
+			title: "Datenschutzrichtlinie | trashmail.space",
 			description:
-				"Sieh, welche Daten smail.pw verarbeiten kann, wie lange sie gespeichert werden und wie Datenschutz umgesetzt wird.",
+				"Sieh, welche Daten trashmail.space verarbeiten kann, wie lange sie gespeichert werden und wie Datenschutz umgesetzt wird.",
 		},
 		ja: {
-			title: "プライバシーポリシー | smail.pw",
+			title: "プライバシーポリシー | trashmail.space",
 			description:
-				"smail.pw が扱う可能性のあるデータ、保持期間、プライバシー保護の方針を確認できます。",
+				"trashmail.space が扱う可能性のあるデータ、保持期間、プライバシー保護の方針を確認できます。",
 		},
 		ko: {
-			title: "개인정보 처리방침 | smail.pw",
+			title: "개인정보 처리방침 | trashmail.space",
 			description:
-				"smail.pw에서 처리할 수 있는 데이터 유형, 보관 기간, 개인정보 보호 방식에 대해 확인하세요.",
+				"trashmail.space에서 처리할 수 있는 데이터 유형, 보관 기간, 개인정보 보호 방식에 대해 확인하세요.",
 		},
 		ru: {
-			title: "Политика конфиденциальности | smail.pw",
+			title: "Политика конфиденциальности | trashmail.space",
 			description:
-				"Узнайте, какие данные может обрабатывать smail.pw, сроки хранения и подход к конфиденциальности.",
+				"Узнайте, какие данные может обрабатывать trashmail.space, сроки хранения и подход к конфиденциальности.",
 		},
 		pt: {
-			title: "Política de privacidade | smail.pw",
+			title: "Política de privacidade | trashmail.space",
 			description:
-				"Veja quais dados o smail.pw pode processar, por quanto tempo são mantidos e como a privacidade é tratada.",
+				"Veja quais dados o trashmail.space pode processar, por quanto tempo são mantidos e como a privacidade é tratada.",
 		},
 		ar: {
-			title: "سياسة الخصوصية | smail.pw",
+			title: "سياسة الخصوصية | trashmail.space",
 			description:
-				"تعرّف على البيانات التي قد يعالجها smail.pw ومدة الاحتفاظ بها وكيفية التعامل مع الخصوصية.",
+				"تعرّف على البيانات التي قد يعالجها trashmail.space ومدة الاحتفاظ بها وكيفية التعامل مع الخصوصية.",
 		},
 	},
 	terms: {
 		en: {
-			title: "Terms of Use | smail.pw",
+			title: "Terms of Use | trashmail.space",
 			description:
-				"Review the terms for using smail.pw, including acceptable use, disclaimers, and service limitations.",
+				"Review the terms for using trashmail.space, including acceptable use, disclaimers, and service limitations.",
 		},
 		zh: {
-			title: "使用条款 | smail.pw",
-			description: "了解 smail.pw 的使用规则、服务边界与免责声明。",
+			title: "使用条款 | trashmail.space",
+			description: "了解 trashmail.space 的使用规则、服务边界与免责声明。",
 		},
 		es: {
-			title: "Términos de uso | smail.pw",
+			title: "Términos de uso | trashmail.space",
 			description:
-				"Revisa las reglas de uso de smail.pw, incluyendo usos permitidos, avisos legales y límites del servicio.",
+				"Revisa las reglas de uso de trashmail.space, incluyendo usos permitidos, avisos legales y límites del servicio.",
 		},
 		fr: {
-			title: "Conditions d'utilisation | smail.pw",
+			title: "Conditions d'utilisation | trashmail.space",
 			description:
-				"Consultez les conditions d'usage de smail.pw, y compris l'usage autorisé, les exclusions et limites du service.",
+				"Consultez les conditions d'usage de trashmail.space, y compris l'usage autorisé, les exclusions et limites du service.",
 		},
 		de: {
-			title: "Nutzungsbedingungen | smail.pw",
+			title: "Nutzungsbedingungen | trashmail.space",
 			description:
-				"Prüfe die Nutzungsregeln von smail.pw inklusive zulässiger Nutzung, Haftungsausschlüssen und Servicegrenzen.",
+				"Prüfe die Nutzungsregeln von trashmail.space inklusive zulässiger Nutzung, Haftungsausschlüssen und Servicegrenzen.",
 		},
 		ja: {
-			title: "利用規約 | smail.pw",
+			title: "利用規約 | trashmail.space",
 			description:
-				"smail.pw の利用条件、許容される利用、免責事項、サービス範囲の制限を確認できます。",
+				"trashmail.space の利用条件、許容される利用、免責事項、サービス範囲の制限を確認できます。",
 		},
 		ko: {
-			title: "이용약관 | smail.pw",
+			title: "이용약관 | trashmail.space",
 			description:
-				"smail.pw 이용 규정, 허용 범위, 면책 고지, 서비스 제한 사항을 확인하세요.",
+				"trashmail.space 이용 규정, 허용 범위, 면책 고지, 서비스 제한 사항을 확인하세요.",
 		},
 		ru: {
-			title: "Условия использования | smail.pw",
+			title: "Условия использования | trashmail.space",
 			description:
-				"Ознакомьтесь с правилами использования smail.pw, допустимым применением, отказом от ответственности и ограничениями.",
+				"Ознакомьтесь с правилами использования trashmail.space, допустимым применением, отказом от ответственности и ограничениями.",
 		},
 		pt: {
-			title: "Termos de uso | smail.pw",
+			title: "Termos de uso | trashmail.space",
 			description:
-				"Revise os termos do smail.pw, incluindo uso aceitável, avisos legais e limitações do serviço.",
+				"Revise os termos do trashmail.space, incluindo uso aceitável, avisos legais e limitações do serviço.",
 		},
 		ar: {
-			title: "شروط الاستخدام | smail.pw",
+			title: "شروط الاستخدام | trashmail.space",
 			description:
-				"راجع شروط استخدام smail.pw بما يشمل الاستخدام المقبول وإخلاء المسؤولية وحدود الخدمة.",
+				"راجع شروط استخدام trashmail.space بما يشمل الاستخدام المقبول وإخلاء المسؤولية وحدود الخدمة.",
 		},
 	},
 	"temporary-email-24-hours": {
 		en: {
-			title: "24 Hour Temporary Email (Temp Mail) | smail.pw",
+			title: "24 Hour Temporary Email (Temp Mail) | trashmail.space",
 			description:
 				"Create a 24 hour email temp mail inbox for sign-ups and OTP verification codes without exposing your primary mailbox.",
 		},
 		zh: {
-			title: "24小时临时邮箱（24小时邮箱）| smail.pw",
+			title: "24小时临时邮箱（24小时邮箱）| trashmail.space",
 			description:
 				"获取 24 小时临时邮箱（一次性邮箱），用于临时邮箱注册、验证码与短期收信，自动过期更省心。",
 		},
 		es: {
-			title: "Correo temporal 24 horas (email desechable) | smail.pw",
+			title: "Correo temporal 24 horas (email desechable) | trashmail.space",
 			description:
 				"Usa un correo temporal de 24 horas para registros y códigos OTP sin exponer tu email principal.",
 		},
 		fr: {
-			title: "Email temporaire 24 heures (boîte jetable) | smail.pw",
+			title: "Email temporaire 24 heures (boîte jetable) | trashmail.space",
 			description:
 				"Créez une boîte temporaire 24h pour inscription et codes OTP sans exposer votre email principal.",
 		},
 		de: {
-			title: "24-Stunden-Temporäre E-Mail | smail.pw",
+			title: "24-Stunden-Temporäre E-Mail | trashmail.space",
 			description:
 				"Nutze eine temporäre 24h-Adresse für Registrierung und OTP-Verifizierung ohne deine Hauptadresse offenzulegen.",
 		},
 		ja: {
-			title: "24時間一時メール（使い捨てメール）| smail.pw",
+			title: "24時間一時メール（使い捨てメール）| trashmail.space",
 			description:
 				"登録やOTP認証に使える24時間の一時受信箱。メインアドレスを公開せず利用できます。",
 		},
 		ko: {
-			title: "24시간 임시 이메일(일회용 메일) | smail.pw",
+			title: "24시간 임시 이메일(일회용 메일) | trashmail.space",
 			description:
 				"가입과 OTP 인증에 쓰는 24시간 임시 메일함으로 기본 주소 노출을 줄이세요.",
 		},
 		ru: {
-			title: "Временная почта на 24 часа | smail.pw",
+			title: "Временная почта на 24 часа | trashmail.space",
 			description:
 				"Используйте временный ящик на 24 часа для регистрации и OTP-кодов, не раскрывая основной адрес.",
 		},
 		pt: {
-			title: "Email temporário de 24 horas | smail.pw",
+			title: "Email temporário de 24 horas | trashmail.space",
 			description:
 				"Crie um inbox temporário de 24h para cadastro e códigos OTP sem expor seu email principal.",
 		},
 		ar: {
-			title: "بريد مؤقت لمدة 24 ساعة | smail.pw",
+			title: "بريد مؤقت لمدة 24 ساعة | trashmail.space",
 			description:
 				"أنشئ صندوقًا مؤقتًا لمدة 24 ساعة للتسجيل ورموز OTP دون كشف بريدك الأساسي.",
 		},
 	},
 	"temporary-email-no-registration": {
 		en: {
-			title: "Temporary Email No Registration (No Signup Temp Mail) | smail.pw",
+			title: "Temporary Email No Registration (No Signup Temp Mail) | trashmail.space",
 			description:
 				"Use no registration temp mail with no password or personal details. Generate a temporary inbox instantly and receive email in seconds.",
 		},
 		zh: {
-			title: "免注册临时邮箱（无需注册）| smail.pw",
+			title: "免注册临时邮箱（无需注册）| trashmail.space",
 			description:
 				"免注册临时邮箱，无需账号和密码即可快速生成一次性邮箱，适合临时邮箱注册与验证码收信。",
 		},
 		es: {
-			title: "Correo temporal sin registro (sin cuenta) | smail.pw",
+			title: "Correo temporal sin registro (sin cuenta) | trashmail.space",
 			description:
 				"Recibe emails en segundos sin crear cuenta ni contraseña con un buzón temporal para registro y verificación.",
 		},
 		fr: {
-			title: "Email temporaire sans inscription | smail.pw",
+			title: "Email temporaire sans inscription | trashmail.space",
 			description:
 				"Recevez des emails sans compte ni mot de passe avec une boîte temporaire immédiate pour inscription et vérification.",
 		},
 		de: {
-			title: "Temporäre E-Mail ohne Registrierung | smail.pw",
+			title: "Temporäre E-Mail ohne Registrierung | trashmail.space",
 			description:
 				"Empfange E-Mails ohne Konto und Passwort mit einem sofort nutzbaren temporären Postfach für Anmeldung und Verifizierung.",
 		},
 		ja: {
-			title: "登録不要の一時メール | smail.pw",
+			title: "登録不要の一時メール | trashmail.space",
 			description:
 				"アカウント作成やパスワード不要で、登録・認証に使える一時メール受信箱をすぐ利用できます。",
 		},
 		ko: {
-			title: "가입 없는 임시 이메일 | smail.pw",
+			title: "가입 없는 임시 이메일 | trashmail.space",
 			description:
 				"회원가입과 비밀번호 없이 즉시 사용 가능한 임시 메일함으로 가입/인증 메일을 빠르게 수신하세요.",
 		},
 		ru: {
-			title: "Временная почта без регистрации | smail.pw",
+			title: "Временная почта без регистрации | trashmail.space",
 			description:
 				"Получайте письма мгновенно без аккаунта и пароля через временный ящик для регистрации и подтверждения.",
 		},
 		pt: {
-			title: "Email temporário sem cadastro | smail.pw",
+			title: "Email temporário sem cadastro | trashmail.space",
 			description:
 				"Receba emails rapidamente sem criar conta ou senha com uma caixa temporária imediata para cadastro e verificação.",
 		},
 		ar: {
-			title: "بريد مؤقت بدون تسجيل | smail.pw",
+			title: "بريد مؤقت بدون تسجيل | trashmail.space",
 			description:
 				"استقبل الرسائل فورًا بدون إنشاء حساب أو كلمة مرور عبر صندوق بريد مؤقت سريع للتسجيل والتحقق.",
 		},
 	},
 	"disposable-email-for-verification": {
 		en: {
-			title: "Disposable Email for Verification & OTP | smail.pw",
+			title: "Disposable Email for Verification & OTP | trashmail.space",
 			description:
 				"Receive OTP and verification emails in a disposable email inbox while keeping your personal mailbox private and spam-free.",
 		},
 		zh: {
-			title: "验证码一次性邮箱（OTP临时邮箱）| smail.pw",
+			title: "验证码一次性邮箱（OTP临时邮箱）| trashmail.space",
 			description:
 				"使用验证码一次性邮箱接收 OTP 与确认邮件，适合临时邮箱注册场景，减少垃圾邮件并保护真实邮箱隐私。",
 		},
 		es: {
-			title: "Correo desechable para verificación y OTP | smail.pw",
+			title: "Correo desechable para verificación y OTP | trashmail.space",
 			description:
 				"Recibe OTP y enlaces de confirmación en un buzón desechable sin llenar tu correo personal de spam.",
 		},
 		fr: {
-			title: "Email jetable pour vérification et OTP | smail.pw",
+			title: "Email jetable pour vérification et OTP | trashmail.space",
 			description:
 				"Recevez OTP et liens de confirmation dans une boîte jetable sans encombrer votre adresse personnelle.",
 		},
 		de: {
-			title: "Wegwerf-E-Mail für Verifizierung und OTP | smail.pw",
+			title: "Wegwerf-E-Mail für Verifizierung und OTP | trashmail.space",
 			description:
 				"Empfange OTP-Codes und Bestätigungslinks im Wegwerf-Postfach und halte dein Hauptpostfach sauber.",
 		},
 		ja: {
-			title: "認証コード用の使い捨てメール（OTP）| smail.pw",
+			title: "認証コード用の使い捨てメール（OTP）| trashmail.space",
 			description:
 				"OTPや確認リンクを使い捨て受信箱で受け取り、個人メールのノイズと露出を減らせます。",
 		},
 		ko: {
-			title: "인증용 일회용 이메일(OTP) | smail.pw",
+			title: "인증용 일회용 이메일(OTP) | trashmail.space",
 			description:
 				"OTP와 확인 링크를 일회용 메일함으로 받아 기본 메일함의 노출과 스팸을 줄이세요.",
 		},
 		ru: {
-			title: "Одноразовая почта для верификации и OTP | smail.pw",
+			title: "Одноразовая почта для верификации и OTP | trashmail.space",
 			description:
 				"Получайте OTP и письма подтверждения в одноразовом ящике, не засоряя основной почтовый адрес.",
 		},
 		pt: {
-			title: "Email descartável para verificação e OTP | smail.pw",
+			title: "Email descartável para verificação e OTP | trashmail.space",
 			description:
 				"Receba OTP e links de confirmação em inbox descartável sem expor nem lotar seu email principal.",
 		},
 		ar: {
-			title: "بريد مؤقت للتحقق ورموز OTP | smail.pw",
+			title: "بريد مؤقت للتحقق ورموز OTP | trashmail.space",
 			description:
 				"استقبل رموز OTP وروابط التأكيد في بريد مؤقت دون إزعاج أو كشف بريدك الشخصي الأساسي.",
 		},
 	},
 	"temporary-email-for-registration": {
 		en: {
-			title: "Temporary Email for Registration (Signup Temp Mail) | smail.pw",
+			title: "Temporary Email for Registration (Signup Temp Mail) | trashmail.space",
 			description:
 				"Use temporary email for registration flows, trial sign-ups, and one-off onboarding without exposing your long-term mailbox.",
 		},
 		zh: {
-			title: "临时邮箱注册专用（注册临时邮箱）| smail.pw",
+			title: "临时邮箱注册专用（注册临时邮箱）| trashmail.space",
 			description:
 				"用于临时邮箱注册、试用账号和低风险平台注册，快速收验证码并减少真实邮箱暴露。",
 		},
 		es: {
-			title: "Correo temporal para registro | smail.pw",
+			title: "Correo temporal para registro | trashmail.space",
 			description:
 				"Usa un correo temporal para registros y pruebas sin exponer tu bandeja principal a spam futuro.",
 		},
 		fr: {
-			title: "Email temporaire pour inscription | smail.pw",
+			title: "Email temporaire pour inscription | trashmail.space",
 			description:
 				"Utilisez un email temporaire pour l'inscription et les essais sans exposer votre boîte principale.",
 		},
 		de: {
-			title: "Temporäre E-Mail für Registrierung | smail.pw",
+			title: "Temporäre E-Mail für Registrierung | trashmail.space",
 			description:
 				"Nutze temporäre E-Mail für Registrierungen und Testaccounts, ohne dein Hauptpostfach preiszugeben.",
 		},
 		ja: {
-			title: "登録向け一時メール | smail.pw",
+			title: "登録向け一時メール | trashmail.space",
 			description:
 				"登録やトライアル開始時に使える一時メール。メインアドレスの露出を抑えられます。",
 		},
 		ko: {
-			title: "가입용 임시 이메일 | smail.pw",
+			title: "가입용 임시 이메일 | trashmail.space",
 			description:
 				"회원가입과 체험 등록에 쓰는 임시 이메일로 기본 메일함 노출과 스팸 유입을 줄이세요.",
 		},
 		ru: {
-			title: "Временная почта для регистрации | smail.pw",
+			title: "Временная почта для регистрации | trashmail.space",
 			description:
 				"Используйте временную почту для регистраций и тестовых аккаунтов без риска для основного адреса.",
 		},
 		pt: {
-			title: "Email temporário para cadastro | smail.pw",
+			title: "Email temporário para cadastro | trashmail.space",
 			description:
 				"Use email temporário em cadastros e testes sem expor sua caixa principal a spam recorrente.",
 		},
 		ar: {
-			title: "بريد مؤقت للتسجيل | smail.pw",
+			title: "بريد مؤقت للتسجيل | trashmail.space",
 			description:
 				"استخدم بريدًا مؤقتًا لعمليات التسجيل والتجربة دون كشف صندوق بريدك الأساسي على المدى الطويل.",
 		},
 	},
 	"online-temporary-email": {
 		en: {
-			title: "Online Temporary Email Inbox (Instant Temp Mail) | smail.pw",
+			title: "Online Temporary Email Inbox (Instant Temp Mail) | trashmail.space",
 			description:
 				"Get an online temporary email inbox instantly for verification links, OTP messages, and short-term email reception.",
 		},
 		zh: {
-			title: "在线临时邮箱（即时收信）| smail.pw",
+			title: "在线临时邮箱（即时收信）| trashmail.space",
 			description:
 				"在线临时邮箱即时可用，适合验证码、确认链接和短期收信场景，支持快速刷新。",
 		},
 		es: {
-			title: "Correo temporal online inmediato | smail.pw",
+			title: "Correo temporal online inmediato | trashmail.space",
 			description:
 				"Obtén una bandeja temporal online al instante para OTP, enlaces de verificación y correos de uso corto.",
 		},
 		fr: {
-			title: "Email temporaire en ligne immédiat | smail.pw",
+			title: "Email temporaire en ligne immédiat | trashmail.space",
 			description:
 				"Obtenez une boîte temporaire en ligne pour OTP, liens de vérification et réception courte durée.",
 		},
 		de: {
-			title: "Online-Temporäre E-Mail sofort | smail.pw",
+			title: "Online-Temporäre E-Mail sofort | trashmail.space",
 			description:
 				"Erhalte sofort ein Online-Temp-Postfach für OTP-Codes, Bestätigungslinks und Kurzzeit-Empfang.",
 		},
 		ja: {
-			title: "オンライン一時メール（即時受信）| smail.pw",
+			title: "オンライン一時メール（即時受信）| trashmail.space",
 			description:
 				"OTPや確認リンクの受信に使えるオンライン一時メールをすぐ利用できます。",
 		},
 		ko: {
-			title: "온라인 임시 이메일 즉시 사용 | smail.pw",
+			title: "온라인 임시 이메일 즉시 사용 | trashmail.space",
 			description:
 				"OTP와 확인 링크 수신에 적합한 온라인 임시 메일함을 즉시 생성해 사용하세요.",
 		},
 		ru: {
-			title: "Онлайн временная почта мгновенно | smail.pw",
+			title: "Онлайн временная почта мгновенно | trashmail.space",
 			description:
 				"Мгновенно получите онлайн-временный ящик для OTP, ссылок подтверждения и коротких сценариев.",
 		},
 		pt: {
-			title: "Email temporário online imediato | smail.pw",
+			title: "Email temporário online imediato | trashmail.space",
 			description:
 				"Gere inbox temporário online na hora para OTP, links de confirmação e recebimento de curto prazo.",
 		},
 		ar: {
-			title: "بريد مؤقت أونلاين فوري | smail.pw",
+			title: "بريد مؤقت أونلاين فوري | trashmail.space",
 			description:
 				"احصل على صندوق بريد مؤقت عبر الإنترنت فورًا لاستقبال OTP وروابط التحقق والرسائل قصيرة المدة.",
 		},
@@ -827,52 +827,52 @@ const mdMetaCopy: Record<
 	"domestic-temporary-email": {
 		en: {
 			title:
-				"Domestic Temporary Email Guide (Regional Delivery Tips) | smail.pw",
+				"Domestic Temporary Email Guide (Regional Delivery Tips) | trashmail.space",
 			description:
 				"Read domestic temporary email delivery tips, common verification issues, and retry steps when OTP messages are delayed.",
 		},
 		zh: {
-			title: "国内临时邮箱收信指南 | smail.pw",
+			title: "国内临时邮箱收信指南 | trashmail.space",
 			description:
 				"国内临时邮箱场景下的验证码接收建议：常见延迟原因、重发步骤和收信排查方法。",
 		},
 		es: {
-			title: "Guía de correo temporal local | smail.pw",
+			title: "Guía de correo temporal local | trashmail.space",
 			description:
 				"Consulta recomendaciones de entrega local para correo temporal y cómo resolver retrasos de OTP.",
 		},
 		fr: {
-			title: "Guide d'email temporaire local | smail.pw",
+			title: "Guide d'email temporaire local | trashmail.space",
 			description:
 				"Conseils de délivrabilité locale pour email temporaire et résolution des retards de code OTP.",
 		},
 		de: {
-			title: "Leitfaden für lokale temporäre E-Mail | smail.pw",
+			title: "Leitfaden für lokale temporäre E-Mail | trashmail.space",
 			description:
 				"Tipps zur lokalen Zustellung bei temporärer E-Mail und zur Fehlerbehebung bei verzögerten OTP-Codes.",
 		},
 		ja: {
-			title: "国内向け一時メール受信ガイド | smail.pw",
+			title: "国内向け一時メール受信ガイド | trashmail.space",
 			description:
 				"地域内サービスで一時メールを使う際の受信遅延対策やOTP再送手順をまとめています。",
 		},
 		ko: {
-			title: "국내 임시 이메일 수신 가이드 | smail.pw",
+			title: "국내 임시 이메일 수신 가이드 | trashmail.space",
 			description:
 				"국내 서비스에서 임시 메일 사용 시 OTP 지연 원인과 재전송/새로고침 대응법을 확인하세요.",
 		},
 		ru: {
-			title: "Локальная временная почта: гайд | smail.pw",
+			title: "Локальная временная почта: гайд | trashmail.space",
 			description:
 				"Советы по локальной доставке временной почты и действия при задержке OTP-сообщений.",
 		},
 		pt: {
-			title: "Guia de email temporário local | smail.pw",
+			title: "Guia de email temporário local | trashmail.space",
 			description:
 				"Veja dicas de entrega local para email temporário e etapas para corrigir atrasos de OTP.",
 		},
 		ar: {
-			title: "دليل البريد المؤقت المحلي | smail.pw",
+			title: "دليل البريد المؤقت المحلي | trashmail.space",
 			description:
 				"تعرف على نصائح التسليم المحلي للبريد المؤقت وخطوات معالجة تأخر رسائل OTP.",
 		},
@@ -880,106 +880,106 @@ const mdMetaCopy: Record<
 	"can-temporary-email-send": {
 		en: {
 			title:
-				"Can Temporary Email Send Messages? (Receive-Only Explained) | smail.pw",
+				"Can Temporary Email Send Messages? (Receive-Only Explained) | trashmail.space",
 			description:
 				"Understand whether temporary email can send messages, why many temp inboxes are receive-only, and when to use a permanent mailbox instead.",
 		},
 		zh: {
-			title: "临时邮箱可以发送邮件吗？| smail.pw",
+			title: "临时邮箱可以发送邮件吗？| trashmail.space",
 			description:
 				"解释临时邮箱发送能力与限制：为什么多数临时邮箱仅收信，以及何时应切换到长期邮箱。",
 		},
 		es: {
-			title: "¿El correo temporal puede enviar mensajes? | smail.pw",
+			title: "¿El correo temporal puede enviar mensajes? | trashmail.space",
 			description:
 				"Conoce por qué muchos buzones temporales son solo de recepción y cuándo debes usar correo permanente.",
 		},
 		fr: {
-			title: "Un email temporaire peut-il envoyer des messages ? | smail.pw",
+			title: "Un email temporaire peut-il envoyer des messages ? | trashmail.space",
 			description:
 				"Comprenez pourquoi de nombreuses boîtes temporaires sont en réception seule et quand utiliser un email permanent.",
 		},
 		de: {
-			title: "Kann temporäre E-Mail Nachrichten senden? | smail.pw",
+			title: "Kann temporäre E-Mail Nachrichten senden? | trashmail.space",
 			description:
 				"Erfahre, warum viele Temp-Mail-Postfächer nur empfangen und wann ein dauerhaftes Postfach nötig ist.",
 		},
 		ja: {
-			title: "一時メールは送信できる？ | smail.pw",
+			title: "一時メールは送信できる？ | trashmail.space",
 			description:
 				"多くの一時メールが受信専用である理由と、恒久メールへ切り替えるべき場面を解説します。",
 		},
 		ko: {
-			title: "임시 이메일로 발신할 수 있나요? | smail.pw",
+			title: "임시 이메일로 발신할 수 있나요? | trashmail.space",
 			description:
 				"임시 메일함이 수신 전용인 이유와, 언제 장기 메일 서비스로 전환해야 하는지 설명합니다.",
 		},
 		ru: {
-			title: "Можно ли отправлять письма с временной почты? | smail.pw",
+			title: "Можно ли отправлять письма с временной почты? | trashmail.space",
 			description:
 				"Разбираем, почему временные ящики часто только для приема и когда нужен постоянный адрес.",
 		},
 		pt: {
-			title: "Email temporário pode enviar mensagens? | smail.pw",
+			title: "Email temporário pode enviar mensagens? | trashmail.space",
 			description:
 				"Entenda por que muitas caixas temporárias são só para receber e quando usar um email permanente.",
 		},
 		ar: {
-			title: "هل يمكن للبريد المؤقت إرسال رسائل؟ | smail.pw",
+			title: "هل يمكن للبريد المؤقت إرسال رسائل؟ | trashmail.space",
 			description:
 				"تعرف لماذا تكون معظم صناديق البريد المؤقت للاستقبال فقط ومتى تحتاج إلى بريد دائم للإرسال.",
 		},
 	},
 	"smail-vs-smailpro": {
 		en: {
-			title: "smail.pw vs smailpro / smail pro | Brand Clarification",
+			title: "trashmail.space vs smailpro / smail pro | Brand Clarification",
 			description:
-				"Official clarification: smail.pw is an independent temporary email service and is not affiliated with smailpro or similarly named products.",
+				"Official clarification: trashmail.space is an independent temporary email service and is not affiliated with smailpro or similarly named products.",
 		},
 		zh: {
-			title: "smail.pw 与 smailpro / smail pro 关系说明",
+			title: "trashmail.space 与 smailpro / smail pro 关系说明",
 			description:
-				"官方说明：smail.pw 是独立临时邮箱服务，与 smailpro 或同名近似产品无隶属关系。",
+				"官方说明：trashmail.space 是独立临时邮箱服务，与 smailpro 或同名近似产品无隶属关系。",
 		},
 		es: {
-			title: "smail.pw vs smailpro | Aclaración de marca",
+			title: "trashmail.space vs smailpro | Aclaración de marca",
 			description:
-				"Aclaración oficial: smail.pw es un servicio independiente y no está afiliado con smailpro.",
+				"Aclaración oficial: trashmail.space es un servicio independiente y no está afiliado con smailpro.",
 		},
 		fr: {
-			title: "smail.pw vs smailpro | Clarification de marque",
+			title: "trashmail.space vs smailpro | Clarification de marque",
 			description:
-				"Clarification officielle: smail.pw est un service indépendant non affilié à smailpro.",
+				"Clarification officielle: trashmail.space est un service indépendant non affilié à smailpro.",
 		},
 		de: {
-			title: "smail.pw vs smailpro | Markenhinweis",
+			title: "trashmail.space vs smailpro | Markenhinweis",
 			description:
-				"Offizieller Hinweis: smail.pw ist ein unabhängiger Dienst ohne Verbindung zu smailpro.",
+				"Offizieller Hinweis: trashmail.space ist ein unabhängiger Dienst ohne Verbindung zu smailpro.",
 		},
 		ja: {
-			title: "smail.pw と smailpro の違い | 公式説明",
+			title: "trashmail.space と smailpro の違い | 公式説明",
 			description:
-				"公式説明: smail.pw は独立した一時メールサービスで、smailpro との提携はありません。",
+				"公式説明: trashmail.space は独立した一時メールサービスで、smailpro との提携はありません。",
 		},
 		ko: {
-			title: "smail.pw vs smailpro | 브랜드 안내",
+			title: "trashmail.space vs smailpro | 브랜드 안내",
 			description:
-				"공식 안내: smail.pw는 독립 서비스이며 smailpro와 제휴 또는 동일 서비스가 아닙니다.",
+				"공식 안내: trashmail.space는 독립 서비스이며 smailpro와 제휴 또는 동일 서비스가 아닙니다.",
 		},
 		ru: {
-			title: "smail.pw и smailpro | Разъяснение бренда",
+			title: "trashmail.space и smailpro | Разъяснение бренда",
 			description:
-				"Официально: smail.pw — независимый сервис и не связан со smailpro.",
+				"Официально: trashmail.space — независимый сервис и не связан со smailpro.",
 		},
 		pt: {
-			title: "smail.pw vs smailpro | Esclarecimento de marca",
+			title: "trashmail.space vs smailpro | Esclarecimento de marca",
 			description:
-				"Esclarecimento oficial: smail.pw é um serviço independente e não afiliado ao smailpro.",
+				"Esclarecimento oficial: trashmail.space é um serviço independente e não afiliado ao smailpro.",
 		},
 		ar: {
-			title: "smail.pw مقابل smailpro | توضيح العلامة",
+			title: "trashmail.space مقابل smailpro | توضيح العلامة",
 			description:
-				"توضيح رسمي: smail.pw خدمة مستقلة وليست تابعة لـ smailpro أو لخدمات مشابهة الاسم.",
+				"توضيح رسمي: trashmail.space خدمة مستقلة وليست تابعة لـ smailpro أو لخدمات مشابهة الاسم.",
 		},
 	},
 };
@@ -1228,11 +1228,11 @@ function getArticleJsonLd(
 		dateModified: "2026-03-01",
 		author: {
 			"@type": "Organization",
-			name: "smail.pw",
+			name: "trashmail.space",
 		},
 		publisher: {
 			"@type": "Organization",
-			name: "smail.pw",
+			name: "trashmail.space",
 			url: BASE_URL,
 		},
 	};

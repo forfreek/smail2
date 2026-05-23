@@ -1,6 +1,6 @@
 ## Política de privacidad
 
-smail.pw es un servicio de correo temporal. Procesamos datos mínimos para entregar mensajes y proteger la plataforma frente a abuso.
+trashmail.space es un servicio de correo temporal. Procesamos datos mínimos para entregar mensajes y proteger la plataforma frente a abuso.
 
 ### Datos que pueden procesarse
 

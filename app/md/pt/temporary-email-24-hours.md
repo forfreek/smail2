@@ -1,6 +1,6 @@
 ## Email temporário de 24 horas
 
-O smail.pw oferece inbox temporário de 24 horas para fluxos em que a confirmação pode atrasar.
+O trashmail.space oferece inbox temporário de 24 horas para fluxos em que a confirmação pode atrasar.
 
 ### Vantagens
 
@@ -12,7 +12,7 @@ O smail.pw oferece inbox temporário de 24 horas para fluxos em que a confirmaç
 
 1. Gere um endereço temporário.
 2. Use no site de destino.
-3. Confira a caixa no smail.pw.
+3. Confira a caixa no trashmail.space.
 4. Salve dados importantes antes do prazo.
 
 ### Páginas relacionadas

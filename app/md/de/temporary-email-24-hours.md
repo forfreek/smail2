@@ -1,6 +1,6 @@
 ## 24-Stunden Temporäre E-Mail
 
-smail.pw bietet ein 24h-Postfach für Registrierungen, bei denen Bestätigungen verspätet eintreffen.
+trashmail.space bietet ein 24h-Postfach für Registrierungen, bei denen Bestätigungen verspätet eintreffen.
 
 ### Warum 24 Stunden sinnvoll sind
 
@@ -12,7 +12,7 @@ smail.pw bietet ein 24h-Postfach für Registrierungen, bei denen Bestätigungen 
 
 1. Temporäre Adresse erzeugen.
 2. Auf der Zielseite eintragen.
-3. Posteingang bei smail.pw prüfen.
+3. Posteingang bei trashmail.space prüfen.
 4. Wichtige Infos vor Ablauf sichern.
 
 ### Verwandte Seiten

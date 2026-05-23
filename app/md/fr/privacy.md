@@ -1,6 +1,6 @@
 ## Politique de confidentialité
 
-smail.pw est un service d'email temporaire. Nous traitons un minimum de données pour assurer la réception des messages et la sécurité du service.
+trashmail.space est un service d'email temporaire. Nous traitons un minimum de données pour assurer la réception des messages et la sécurité du service.
 
 ### Données possibles
 

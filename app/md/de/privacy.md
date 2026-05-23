@@ -1,6 +1,6 @@
 ## Datenschutz
 
-smail.pw ist ein temporärer E-Mail-Dienst. Wir verarbeiten nur notwendige Daten für Zustellung und Missbrauchsschutz.
+trashmail.space ist ein temporärer E-Mail-Dienst. Wir verarbeiten nur notwendige Daten für Zustellung und Missbrauchsschutz.
 
 ### Mögliche Daten
 

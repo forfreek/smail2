@@ -110,11 +110,11 @@ export default function BlogPostPage({ loaderData }: Route.ComponentProps) {
 		},
 		author: {
 			"@type": "Organization",
-			name: "smail.pw",
+			name: "trashmail.space",
 		},
 		publisher: {
 			"@type": "Organization",
-			name: "smail.pw",
+			name: "trashmail.space",
 			logo: {
 				"@type": "ImageObject",
 				url: `${BASE_URL}/favicon.ico`,

@@ -10,7 +10,7 @@ Use **email temporário para cadastro** para validar contas sem expor seu endere
 
 ### Passo a passo
 
-1. Gere um endereço no smail.pw.
+1. Gere um endereço no trashmail.space.
 2. Use no formulário de cadastro.
 3. Receba OTP ou link de confirmação.
 4. Finalize o registro sem expor seu email pessoal.

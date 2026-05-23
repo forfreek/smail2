@@ -1,6 +1,6 @@
 ## Temporary Email No Registration
 
-If you want a mailbox without onboarding, **temporary email no registration** is the fastest route. smail.pw lets you receive emails without creating an account or password, which is ideal for temp mail sign-up flows.
+If you want a mailbox without onboarding, **temporary email no registration** is the fastest route. trashmail.space lets you receive emails without creating an account or password, which is ideal for temp mail sign-up flows.
 
 ### When this is useful
 

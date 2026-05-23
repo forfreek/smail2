@@ -1,6 +1,6 @@
-## smail.pw FAQ
+## trashmail.space FAQ
 
-### Was ist smail.pw?
+### Was ist trashmail.space?
 Ein Dienst für temporäre Postfächer und kurzlebige E-Mails.
 
 ### Brauche ich ein Konto?

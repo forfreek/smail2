@@ -32,7 +32,7 @@ import { DEFAULT_THEME, parseThemeFromCookieHeader } from "~/utils/theme";
 import type { Route } from "./+types/root";
 import "./app.css";
 
-const SITE_OG_TITLE = "smail.pw · 24-Hour Temporary Email";
+const SITE_OG_TITLE = "trashmail.space · 24-Hour Temporary Email";
 const SITE_OG_DESCRIPTION =
 	"Free disposable email inbox with 24-hour auto-expiry. Use a temporary address for sign-ups and verification.";
 
@@ -86,7 +86,7 @@ export function meta({ location }: Route.MetaArgs) {
 			tagName: "link",
 			rel: "alternate",
 			type: "application/rss+xml",
-			title: "smail.pw Blog RSS",
+			title: "trashmail.space Blog RSS",
 			href: `${BASE_URL}${toLocalePath("/rss.xml", rssLocale)}`,
 		},
 		{
@@ -95,7 +95,7 @@ export function meta({ location }: Route.MetaArgs) {
 		},
 		{
 			property: "og:site_name",
-			content: "smail.pw",
+			content: "trashmail.space",
 		},
 		{
 			property: "og:url",
@@ -137,6 +137,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
 				data-theme={resolvedTheme === "light" ? "light" : undefined}
 			>
 				<head>
+				    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1797920702200847"
+     crossorigin="anonymous"></script>
 					<meta charSet="utf-8" />
 					<meta name="viewport" content="width=device-width, initial-scale=1" />
 					<Meta />

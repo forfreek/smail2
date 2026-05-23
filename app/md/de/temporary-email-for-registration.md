@@ -10,7 +10,7 @@ Nutze **temporäre E-Mail für Registrierung**, wenn du Konten verifizieren will
 
 ### So gehst du vor
 
-1. Erzeuge eine Wegwerfadresse auf smail.pw.
+1. Erzeuge eine Wegwerfadresse auf trashmail.space.
 2. Nutze sie im Registrierungsformular.
 3. Hole OTP oder Bestätigungslink im temporären Postfach.
 4. Schließe die Anmeldung ohne Hauptadresse ab.

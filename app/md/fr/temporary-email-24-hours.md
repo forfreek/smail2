@@ -1,6 +1,6 @@
 ## Email temporaire 24 heures
 
-smail.pw propose une boîte temporaire 24h, utile lorsque les emails de confirmation arrivent en retard.
+trashmail.space propose une boîte temporaire 24h, utile lorsque les emails de confirmation arrivent en retard.
 
 ### Pourquoi 24h
 
@@ -12,7 +12,7 @@ smail.pw propose une boîte temporaire 24h, utile lorsque les emails de confirma
 
 1. Générez une adresse temporaire.
 2. Utilisez-la sur le site cible.
-3. Consultez la boîte sur smail.pw.
+3. Consultez la boîte sur trashmail.space.
 4. Sauvegardez les infos importantes avant expiration.
 
 ### Guides liés

@@ -1,15 +1,15 @@
-## smail.pw и smailpro
+## trashmail.space и smailpro
 
-Официальное разъяснение: **smail.pw — независимый сервис**.
+Официальное разъяснение: **trashmail.space — независимый сервис**.
 
 ### Важно
 
-- smail.pw не является тем же продуктом, что smail pro / smailpro
+- trashmail.space не является тем же продуктом, что smail pro / smailpro
 - Нет аффилированности с похожими названиями
 - Функции и политика управляются отдельно
 
 ### Связанные страницы
 
-- [О smail.pw](/about)
+- [О trashmail.space](/about)
 - [FAQ](/faq)
 - [Политика конфиденциальности](/privacy)

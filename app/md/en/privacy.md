@@ -4,13 +4,13 @@ _Last updated: 2026-02-12_
 
 ### 1. Overview
 
-This Privacy Policy explains how smail.pw ("we", "our", or "us") handles information when you use our temporary email service.
+This Privacy Policy explains how trashmail.space ("we", "our", or "us") handles information when you use our temporary email service.
 
-By using smail.pw, you agree to this policy.
+By using trashmail.space, you agree to this policy.
 
 ### 2. What information do we collect?
 
-smail.pw is designed to minimize the information we collect.
+trashmail.space is designed to minimize the information we collect.
 
 - **Email content**: The emails sent to your temporary addresses are stored on our servers for up to 24 hours so that you can read them.
 - **Technical data**: We may store basic technical information such as IP address, browser type, and timestamps for security, debugging, and abuse prevention.
@@ -32,13 +32,13 @@ We do **not** sell your data.
 - **Temporary inboxes and emails** are retained for up to 24 hours and then automatically deleted.
 - **Technical logs** may be kept longer for security, debugging, and legal reasons.
 
-smail.pw is **not** a long‑term storage service. Once data is deleted, it cannot be recovered.
+trashmail.space is **not** a long‑term storage service. Once data is deleted, it cannot be recovered.
 
 ### 5. Who can see my emails?
 
 Temporary inboxes are **not tied to a personal account**. Anyone who knows or guesses the same address may be able to see the incoming emails for that address.
 
-Do **not** use smail.pw for sensitive or private information such as:
+Do **not** use trashmail.space for sensitive or private information such as:
 
 - Banking or payment details
 - Government IDs or legal documents
@@ -60,17 +60,17 @@ We may share or preserve information when necessary to:
 
 - Comply with applicable laws or legal processes
 - Respond to valid law enforcement requests
-- Protect the rights, property, or safety of smail.pw, our users, or others
+- Protect the rights, property, or safety of trashmail.space, our users, or others
 
 We do not share data with advertisers for the purpose of building advertising profiles.
 
 ### 8. Where is data processed?
 
-smail.pw may process and store data in different regions or with third‑party infrastructure providers. Your data may be transferred across borders depending on where the service is hosted.
+trashmail.space may process and store data in different regions or with third‑party infrastructure providers. Your data may be transferred across borders depending on where the service is hosted.
 
 ### 9. Children’s privacy
 
-smail.pw is not directed to children under the age where they can legally provide consent to online services in their jurisdiction. If you believe a child has provided us with personal information, please contact us so we can delete it.
+trashmail.space is not directed to children under the age where they can legally provide consent to online services in their jurisdiction. If you believe a child has provided us with personal information, please contact us so we can delete it.
 
 ### 10. Changes to this policy
 
@@ -80,4 +80,4 @@ If the changes are material, we may provide additional notice where reasonable.
 
 ### 11. Contact us
 
-If you have questions or concerns about this Privacy Policy, please use the contact link or feedback form on smail.pw and describe your request clearly.
+If you have questions or concerns about this Privacy Policy, please use the contact link or feedback form on trashmail.space and describe your request clearly.
