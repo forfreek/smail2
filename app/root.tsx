@@ -137,6 +137,18 @@ export function Layout({ children }: { children: React.ReactNode }) {
 				data-theme={resolvedTheme === "light" ? "light" : undefined}
 			>
 				<head>
+					<script
+  async
+  src="https://adventory.to/ad.card.js"
+  data-placement="c7716a01-9f9f-49f3-9a08-8e23a8241d2e"
+  id="adventory-c7716a01-9f9f-49f3-9a08-8e23a8241d2e"
+></script>
+					<script
+  async
+  src="https://adventory.to/ad.card.js"
+  data-placement="c7716a01-9f9f-49f3-9a08-8e23a8241d2e"
+  id="adventory-c7716a01-9f9f-49f3-9a08-8e23a8241d2e"
+></script>
 				    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1797920702200847"
      crossorigin="anonymous"></script>
 					<meta charSet="utf-8" />
