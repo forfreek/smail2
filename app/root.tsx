@@ -137,6 +137,13 @@ export function Layout({ children }: { children: React.ReactNode }) {
 				data-theme={resolvedTheme === "light" ? "light" : undefined}
 			>
 				<head>
+					<script id="aclib" type="text/javascript" src="//acscdn.com/script/aclib.js"></script>
+                    <script type="text/javascript">
+    aclib.runAutoTag({
+        zoneId: 'lymvz8hyny',
+    });
+</script>
+
 				    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1797920702200847"
      crossorigin="anonymous"></script>
 					<meta charSet="utf-8" />
