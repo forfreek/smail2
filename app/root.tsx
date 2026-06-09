@@ -138,17 +138,28 @@ export function Layout({ children }: { children: React.ReactNode }) {
 			>
 				<head>
 					<script
-  id="aclib"
-  type="text/javascript"
-  src="https://acscdn.com/script/aclib.js"
-/>
-
-<script
   dangerouslySetInnerHTML={{
     __html: `
-      aclib.runAutoTag({
-        zoneId: 'lymvz8hyny'
-      });
+      (function () {
+        const script = document.createElement('script');
+        script.src = 'https://acscdn.com/script/aclib.js';
+        script.async = true;
+
+        script.onload = function () {
+          if (!window.aclib) return;
+
+          window.aclib.runVideoSlider({
+            zoneId: '11410482'
+          });
+
+          window.aclib.runInPagePush({
+            zoneId: '11410486',
+            maxAds: 2
+          });
+        };
+
+        document.head.appendChild(script);
+      })();
     `,
   }}
 />
