@@ -137,32 +137,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
 				data-theme={resolvedTheme === "light" ? "light" : undefined}
 			>
 				<head>
-					<script
-  dangerouslySetInnerHTML={{
-    __html: `
-      (function () {
-        const script = document.createElement('script');
-        script.src = 'https://acscdn.com/script/aclib.js';
-        script.async = true;
-
-        script.onload = function () {
-          if (!window.aclib) return;
-
-          window.aclib.runVideoSlider({
-            zoneId: '11410482'
-          });
-
-          window.aclib.runInPagePush({
-            zoneId: '11410486',
-            maxAds: 2
-          });
-        };
-
-        document.head.appendChild(script);
-      })();
-    `,
-  }}
-/>
+	
 
 				    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1797920702200847"
      crossorigin="anonymous"></script>
