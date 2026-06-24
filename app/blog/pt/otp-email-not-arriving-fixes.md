@@ -1,39 +1,39 @@
-## Email OTP não chega? 8 correções rápidas
+## Email OTP não chega? 8 verificações antes de começar tudo de novo
 
-Se o email de código de verificação atrasar, não reinicie tudo imediatamente. Siga este checklist na ordem.
+Quando um código de verificação não aparece, muita gente pede outro cedo demais, troca de endereço ou reinicia todo o fluxo de cadastro. Isso normalmente só dificulta descobrir o problema. Faça primeiro estas verificações, na ordem.
 
-### 1) Espere 1–3 minutos primeiro
+### 1) Espere um minuto antes de fazer qualquer coisa
 
-Muitos provedores colocam emails de verificação em fila. Pequenos atrasos são comuns.
+Emails de verificação costumam atrasar por filas do remetente, limites de envio ou picos de tráfego. Uma espera curta logo após clicar em “enviar código” é normal.
 
-### 2) Confirme se o endereço está correto
+### 2) Revise o endereço exato digitado
 
-Um pequeno erro no nome da caixa já basta para perder a mensagem.
+A maior parte das falhas de entrega não é técnica. Elas vêm de uma letra faltando, um erro de digitação ou um endereço temporário antigo copiado de outra aba.
 
 ### 3) Atualize a caixa manualmente
 
-Use o botão de atualização antes de gerar um novo endereço. Isso captura mensagens que chegam atrasadas.
+Se você estiver usando `trashmail.space`, atualize a caixa antes de gerar outro endereço. Uma mensagem atrasada pode já estar esperando.
 
-### 4) Reenvie pelo site de origem
+### 4) Reenvie uma vez e espere de novo
 
-A maioria das plataformas oferece link de reenvio. Reenvie uma vez e aguarde novamente.
+Use a opção de reenvio do site apenas uma vez. Cliques rápidos repetidos podem ativar tempo de espera ou gerar vários códigos, o que dificulta saber qual é o atual.
 
-### 5) Verifique a política do domínio do remetente
+### 5) Verifique se o site bloqueia domínios temporários
 
-Alguns serviços bloqueiam domínios temporários. Se várias tentativas falharem, este pode ser o motivo.
+Alguns serviços aceitam o cadastro, mas deixam de enviar email de verificação para domínios descartáveis. Se o mesmo site falha mais de uma vez, esse bloqueio é uma causa provável.
 
-### 6) Evite trocar de endereço rápido demais
+### 6) Não troque de caixa no meio do processo
 
-Se você trocar de caixa antes da nova tentativa do remetente, o próximo código pode ir para o endereço antigo.
+Se você pediu o código com um endereço e o substituiu rápido demais, a mensagem ainda pode ir para a primeira caixa. Termine a checagem no endereço original antes de mudar qualquer coisa.
 
-### 7) Use um fallback estável
+### 7) Use uma alternativa estável para contas importantes
 
-Para contas de valor médio ou alto, troque para um alias ou caixa pessoal para concluir o cadastro.
+Se aquela conta pode importar depois, mude para um alias ou para sua caixa normal. Email temporário é útil para cadastros rápidos, mas nem todo remetente lida bem com ele.
 
-### 8) Registre horários para o suporte
+### 8) Guarde o timing se você precisar de suporte
 
-Anote quando pediu o código e se houve reenvio. Isso ajuda o suporte a rastrear logs de entrega mais rápido.
+Anote quando o código foi pedido, se houve reenvio e qual endereço foi usado. Esses três detalhes costumam bastar para o suporte verificar os logs de entrega.
 
-### Conclusão
+### Resumo
 
-A maioria dos problemas de OTP envolve timing, erro de digitação ou política do remetente. Uma sequência estruturada resolve mais rápido do que trocar endereços aleatoriamente.
+Quando o email OTP não chega, o problema geralmente é timing, erro de endereço ou regra do remetente. Verifique isso nessa ordem antes de recomeçar tudo.

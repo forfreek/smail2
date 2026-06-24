@@ -1,19 +1,35 @@
 ## Email temporário pode enviar mensagens?
 
-Na maioria dos casos, **email temporário é apenas para receber** OTP e links de confirmação.
+Na maioria dos casos, não. Caixas temporárias costumam ser construídas para receber mensagens, não para enviá-las de volta.
 
-### Por que costuma ser só recebimento
+Isso não é um acaso. É uma das limitações que tornam esse tipo de caixa viável para fluxos rápidos de verificação.
 
-- Menor risco de spam e abuso
-- Segurança operacional mais simples
-- Melhor estabilidade da caixa descartável
+### Por que o modo somente recebimento é comum
 
-### Quando usar email permanente
+- menor risco de abuso
+- regras antiabuso e moderação mais simples
+- infraestrutura mais rápida para caixas focadas em receber
 
-Se você precisa enviar, responder e manter histórico, use um provedor de email permanente.
+Essas restrições fazem parte do que mantém a caixa temporária simples e veloz.
 
-### Páginas relacionadas
+### O que isso significa para quem usa o trashmail
 
-- [Email descartável para verificação](/disposable-email-for-verification)
-- [Email temporário sem cadastro](/temporary-email-no-registration)
-- [Termos de uso](/terms)
+Pense no trashmail como uma caixa de entrada para:
+
+- OTPs
+- links de confirmação
+- mensagens de ativação
+
+Se você precisa responder, enviar email ou manter histórico de conversa, precisa de outra solução.
+
+### Quando usar uma caixa permanente
+
+Escolha um endereço estável quando a conta exigir:
+
+- envio de emails
+- respostas a suporte ou contatos
+- relação de longo prazo com o serviço
+
+### Resumo
+
+Email temporário serve principalmente para receber, não para se corresponder. Se o cenário exige envio ou continuidade, use um alias ou uma caixa permanente.

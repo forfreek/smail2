@@ -41,22 +41,22 @@ const SEO_GUIDES_COPY: Record<
 	{ title: string; items: Array<{ label: string; path: string }> }
 > = {
 	en: {
-		title: "Popular temporary email guides",
+		title: "Choose the right inbox workflow",
 		items: [
-			{ label: "24 Hour Temporary Email", path: "/temporary-email-24-hours" },
+			{ label: "When a 24-hour inbox is enough", path: "/temporary-email-24-hours" },
 			{
-				label: "Temporary Email No Registration",
+				label: "Use trashmail without registration",
 				path: "/temporary-email-no-registration",
 			},
 			{
-				label: "Disposable Email for Verification",
+				label: "Handle verification emails",
 				path: "/disposable-email-for-verification",
 			},
 			{
-				label: "Temporary Email for Registration",
+				label: "Use a disposable inbox for signup",
 				path: "/temporary-email-for-registration",
 			},
-			{ label: "Online Temporary Email", path: "/online-temporary-email" },
+			{ label: "Check email in the browser", path: "/online-temporary-email" },
 		],
 	},
 	zh: {
@@ -72,159 +72,159 @@ const SEO_GUIDES_COPY: Record<
 	es: {
 		title: "Guías populares de correo temporal",
 		items: [
-			{ label: "Correo temporal 24 horas", path: "/temporary-email-24-hours" },
+			{ label: "Cuándo basta un buzón de 24 horas", path: "/temporary-email-24-hours" },
 			{
-				label: "Correo temporal sin registro",
+				label: "Usar trashmail sin registro",
 				path: "/temporary-email-no-registration",
 			},
 			{
-				label: "Correo desechable para verificación",
+				label: "Gestionar correos de verificación",
 				path: "/disposable-email-for-verification",
 			},
 			{
-				label: "Correo temporal para registro",
+				label: "Usar un buzón desechable para registrarte",
 				path: "/temporary-email-for-registration",
 			},
-			{ label: "Correo temporal online", path: "/online-temporary-email" },
+			{ label: "Revisar el correo en el navegador", path: "/online-temporary-email" },
 		],
 	},
 	fr: {
 		title: "Guides populaires d'email temporaire",
 		items: [
 			{
-				label: "Email temporaire 24 heures",
+				label: "Quand une boîte 24 heures suffit",
 				path: "/temporary-email-24-hours",
 			},
 			{
-				label: "Email temporaire sans inscription",
+				label: "Utiliser trashmail sans inscription",
 				path: "/temporary-email-no-registration",
 			},
 			{
-				label: "Email jetable pour vérification",
+				label: "Gérer les emails de vérification",
 				path: "/disposable-email-for-verification",
 			},
 			{
-				label: "Email temporaire pour inscription",
+				label: "Utiliser une boîte jetable pour s'inscrire",
 				path: "/temporary-email-for-registration",
 			},
-			{ label: "Email temporaire en ligne", path: "/online-temporary-email" },
+			{ label: "Consulter l'email dans le navigateur", path: "/online-temporary-email" },
 		],
 	},
 	de: {
 		title: "Beliebte Temp-Mail-Anleitungen",
 		items: [
 			{
-				label: "24-Stunden-Temporäre E-Mail",
+				label: "Wann ein 24-Stunden-Postfach ausreicht",
 				path: "/temporary-email-24-hours",
 			},
 			{
-				label: "Temporäre E-Mail ohne Registrierung",
+				label: "trashmail ohne Registrierung nutzen",
 				path: "/temporary-email-no-registration",
 			},
 			{
-				label: "Wegwerf-E-Mail für Verifizierung",
+				label: "Verifizierungs-E-Mails abwickeln",
 				path: "/disposable-email-for-verification",
 			},
 			{
-				label: "Temporäre E-Mail für Registrierung",
+				label: "Ein Wegwerf-Postfach für Registrierungen nutzen",
 				path: "/temporary-email-for-registration",
 			},
-			{ label: "Online-Temporäre E-Mail", path: "/online-temporary-email" },
+			{ label: "E-Mails im Browser prüfen", path: "/online-temporary-email" },
 		],
 	},
 	ja: {
 		title: "人気の一時メールガイド",
 		items: [
-			{ label: "24時間一時メール", path: "/temporary-email-24-hours" },
+			{ label: "24時間受信箱で足りる場面", path: "/temporary-email-24-hours" },
 			{
-				label: "登録不要の一時メール",
+				label: "登録なしで trashmail を使う",
 				path: "/temporary-email-no-registration",
 			},
 			{
-				label: "認証用使い捨てメール",
+				label: "認証メールへの対処",
 				path: "/disposable-email-for-verification",
 			},
 			{
-				label: "登録向け一時メール",
+				label: "登録に使い捨て受信箱を使う",
 				path: "/temporary-email-for-registration",
 			},
-			{ label: "オンライン一時メール", path: "/online-temporary-email" },
+			{ label: "ブラウザでメールを確認する", path: "/online-temporary-email" },
 		],
 	},
 	ko: {
 		title: "인기 임시 이메일 가이드",
 		items: [
-			{ label: "24시간 임시 이메일", path: "/temporary-email-24-hours" },
+			{ label: "24시간 메일함이면 충분한 경우", path: "/temporary-email-24-hours" },
 			{
-				label: "가입 없는 임시 이메일",
+				label: "가입 없이 trashmail 쓰기",
 				path: "/temporary-email-no-registration",
 			},
 			{
-				label: "인증용 일회용 이메일",
+				label: "인증 메일 처리하기",
 				path: "/disposable-email-for-verification",
 			},
 			{
-				label: "가입용 임시 이메일",
+				label: "가입에 일회용 메일함 쓰기",
 				path: "/temporary-email-for-registration",
 			},
-			{ label: "온라인 임시 이메일", path: "/online-temporary-email" },
+			{ label: "브라우저에서 메일 확인하기", path: "/online-temporary-email" },
 		],
 	},
 	ru: {
 		title: "Популярные гайды по временной почте",
 		items: [
 			{
-				label: "Временная почта на 24 часа",
+				label: "Когда хватает ящика на 24 часа",
 				path: "/temporary-email-24-hours",
 			},
 			{
-				label: "Временная почта без регистрации",
+				label: "Использовать trashmail без регистрации",
 				path: "/temporary-email-no-registration",
 			},
 			{
-				label: "Одноразовая почта для верификации",
+				label: "Разобраться с письмами верификации",
 				path: "/disposable-email-for-verification",
 			},
 			{
-				label: "Временная почта для регистрации",
+				label: "Использовать одноразовый ящик для регистрации",
 				path: "/temporary-email-for-registration",
 			},
-			{ label: "Онлайн временная почта", path: "/online-temporary-email" },
+			{ label: "Проверять почту в браузере", path: "/online-temporary-email" },
 		],
 	},
 	pt: {
 		title: "Guias populares de email temporário",
 		items: [
-			{ label: "Email temporário 24 horas", path: "/temporary-email-24-hours" },
+			{ label: "Quando uma caixa de 24 horas basta", path: "/temporary-email-24-hours" },
 			{
-				label: "Email temporário sem cadastro",
+				label: "Usar trashmail sem cadastro",
 				path: "/temporary-email-no-registration",
 			},
 			{
-				label: "Email descartável para verificação",
+				label: "Lidar com emails de verificação",
 				path: "/disposable-email-for-verification",
 			},
 			{
-				label: "Email temporário para cadastro",
+				label: "Usar uma caixa descartável no cadastro",
 				path: "/temporary-email-for-registration",
 			},
-			{ label: "Email temporário online", path: "/online-temporary-email" },
+			{ label: "Checar o email no navegador", path: "/online-temporary-email" },
 		],
 	},
 	ar: {
 		title: "أدلة البريد المؤقت الشائعة",
 		items: [
-			{ label: "بريد مؤقت لمدة 24 ساعة", path: "/temporary-email-24-hours" },
+			{ label: "متى يكفي صندوق لمدة 24 ساعة", path: "/temporary-email-24-hours" },
 			{
-				label: "بريد مؤقت بدون تسجيل",
+				label: "استخدام trashmail من دون تسجيل",
 				path: "/temporary-email-no-registration",
 			},
 			{
-				label: "بريد مؤقت لرموز التحقق",
+				label: "التعامل مع رسائل التحقق",
 				path: "/disposable-email-for-verification",
 			},
-			{ label: "بريد مؤقت للتسجيل", path: "/temporary-email-for-registration" },
-			{ label: "بريد مؤقت أونلاين", path: "/online-temporary-email" },
+			{ label: "استخدام صندوق مؤقت للتسجيل", path: "/temporary-email-for-registration" },
+			{ label: "فحص البريد داخل المتصفح", path: "/online-temporary-email" },
 		],
 	},
 };
@@ -244,105 +244,113 @@ type SeoNarrative = {
 
 const SEO_NARRATIVE_COPY: Record<Locale, SeoNarrative> = {
 	en: {
-		title: "Why use trashmail.space temporary email",
+		title: "What trashmail is for",
 		description:
-			"trashmail.space is a free temporary email generator (temp mail) for low-risk sign-ups, OTP verification, and one-time downloads. Create a 24-hour disposable inbox in seconds.",
+			"trashmail is a short-lived inbox for moments when a website needs an address, but the email is not important enough for your primary mailbox.",
 		points: [
-			"Works well for temporary email registration and verification code workflows",
-			"No sign-up or password setup for quick temp mail access",
-			"Useful when users search smail temp mail or no-registration disposable inbox",
-			"Use a permanent mailbox for banking, work, and identity-critical accounts",
+			"Use it for trials, low-risk signups, confirmation links, and OTP codes",
+			"No account setup is required before you create an address",
+			"Messages stay available for up to 24 hours instead of disappearing like a 10-minute inbox",
+			"Use your permanent mailbox for banking, work, legal, and recovery-critical accounts",
 		],
 	},
 	zh: {
-		title: "为什么选择 trashmail.space 临时邮箱",
+		title: "trashmail 适合什么场景",
 		description:
-			"trashmail.space 是免费临时邮箱生成器，覆盖临时邮箱、一次性邮箱、24小时邮箱等常见场景。适合临时邮箱注册、验证码（OTP）接收和在线临时收信。",
+			"trashmail 是给短期任务准备的一次性收件箱。网站要求你填邮箱，但这封邮件又不值得进入主邮箱时，用它更合适。",
 		points: [
-			"适合临时邮箱注册、活动领取、下载验证等低风险场景",
-			"免注册、免密码，作为免费临时邮箱快速使用，减少真实邮箱暴露",
-			"部分站点会限制临时邮箱域名，收不到信可尝试重发与刷新",
-			"银行、工作和重要账号请务必使用长期邮箱",
+			"适合试用账号、低风险注册、确认链接和验证码",
+			"生成地址前不需要创建账号，也不需要额外设置",
+			"邮件最多保留 24 小时，不像 10 分钟邮箱那样很快失效",
+			"银行、工作、法律事务和账号找回，必须使用长期邮箱",
 		],
 	},
 	es: {
-		title: "Por qué usar el correo temporal de trashmail.space",
+		title: "Para qué sirve trashmail",
 		description:
-			"trashmail.space ofrece correo temporal gratis (temp mail) para registros rápidos, verificación OTP y descargas puntuales con retención de 24 horas.",
+			"trashmail es un buzón de corta duración para momentos en los que un sitio pide una dirección, pero el correo no es lo bastante importante para tu bandeja principal.",
 		points: [
-			"Útil para flujos de registro y verificación de bajo riesgo",
-			"Sin cuenta ni contraseña para empezar de inmediato",
-			"Si no llega el correo, prueba reenviar y actualizar la bandeja",
+			"Úsalo para pruebas, registros de bajo riesgo, enlaces de confirmación y códigos OTP",
+			"No necesitas crear una cuenta antes de generar una dirección",
+			"Los mensajes siguen disponibles hasta 24 horas en lugar de desaparecer como en una bandeja de 10 minutos",
+			"Usa tu correo permanente para banca, trabajo, asuntos legales y recuperación de cuentas",
 		],
 	},
 	fr: {
-		title: "Pourquoi utiliser l'email temporaire trashmail.space",
+		title: "À quoi sert trashmail",
 		description:
-			"trashmail.space fournit un email temporaire gratuit (temp mail) pour inscription rapide, OTP et usages ponctuels avec rétention de 24h.",
+			"trashmail est une boîte de courte durée pour les moments où un site demande une adresse, mais où l'email n'est pas assez important pour votre boîte principale.",
 		points: [
-			"Adapté aux inscriptions et vérifications à faible risque",
-			"Aucun compte ni mot de passe requis pour commencer",
-			"En cas de non-réception, renvoyez le code puis rafraîchissez la boîte",
+			"Utilisez-la pour les essais, les inscriptions à faible risque, les liens de confirmation et les codes OTP",
+			"Aucune création de compte n'est requise avant de générer une adresse",
+			"Les messages restent disponibles jusqu'à 24 heures au lieu de disparaître comme dans une boîte de 10 minutes",
+			"Gardez votre boîte permanente pour la banque, le travail, le juridique et la récupération de compte",
 		],
 	},
 	de: {
-		title: "Warum temporäre E-Mail von trashmail.space",
+		title: "Wofür trashmail gedacht ist",
 		description:
-			"trashmail.space bietet kostenlose Temp Mail für schnelle Registrierungen, OTP-Verifizierung und einmalige Nutzung mit 24h Aufbewahrung.",
+			"trashmail ist ein kurzlebiges Postfach für Situationen, in denen eine Website eine Adresse verlangt, die E-Mail aber nicht wichtig genug für dein Hauptpostfach ist.",
 		points: [
-			"Ideal für risikoarme Registrierung und Verifizierung",
-			"Kein Konto und kein Passwort für den Sofortstart",
-			"Bei fehlender Zustellung: erneut senden und Posteingang aktualisieren",
+			"Nutze es für Testzugänge, Registrierungen mit geringem Risiko, Bestätigungslinks und OTP-Codes",
+			"Du musst vor dem Erstellen keiner Adresse ein Konto anlegen",
+			"Nachrichten bleiben bis zu 24 Stunden verfügbar, statt wie bei einem 10-Minuten-Postfach zu verschwinden",
+			"Verwende dein dauerhaftes Postfach für Banking, Arbeit, Rechtliches und Konto-Wiederherstellung",
 		],
 	},
 	ja: {
-		title: "trashmail.space の一時メールを使う理由",
+		title: "trashmail の用途",
 		description:
-			"trashmail.space は無料の一時メール（temp mail）です。登録・OTP認証・短期利用向けに24時間の受信箱をすぐ作成できます。",
+			"trashmail は、サイトがアドレスを求めても、そのメールが主要メールに入るほど重要ではない場面向けの短期受信箱です。",
 		points: [
-			"低リスクの登録と認証フローに最適",
-			"アカウント登録やパスワード設定が不要",
-			"届かない場合は再送と受信箱更新を試してください",
+			"試用登録、低リスクのサインアップ、確認リンク、OTP コードに使えます",
+			"アドレス生成前にアカウント作成は不要です",
+			"10 分メールのようにすぐ消えず、メッセージは最大 24 時間保持されます",
+			"銀行、仕事、法務、アカウント復旧には常用メールを使ってください",
 		],
 	},
 	ko: {
-		title: "trashmail.space 임시 이메일을 쓰는 이유",
+		title: "trashmail이 맞는 용도",
 		description:
-			"trashmail.space는 무료 임시 이메일(temp mail) 서비스로, 가입/OTP 인증/일회성 사용에 맞춘 24시간 메일함을 즉시 제공합니다.",
+			"trashmail은 사이트가 주소를 요구하지만 그 메일이 주 메일함에 들어갈 만큼 중요하지 않은 상황을 위한 짧은 수명의 메일함입니다.",
 		points: [
-			"저위험 가입 및 인증 흐름에 적합",
-			"계정 생성과 비밀번호 없이 바로 사용",
-			"메일이 안 오면 재전송 후 받은편지함을 새로고침",
+			"체험 가입, 저위험 회원가입, 확인 링크, OTP 코드에 사용하세요",
+			"주소를 만들기 전에 계정을 만들 필요가 없습니다",
+			"10분 메일처럼 바로 사라지지 않고 메시지는 최대 24시간 유지됩니다",
+			"은행, 업무, 법적 용도, 계정 복구에는 상시 메일함을 사용하세요",
 		],
 	},
 	ru: {
-		title: "Почему стоит использовать временную почту trashmail.space",
+		title: "Для чего нужен trashmail",
 		description:
-			"trashmail.space — бесплатный temp mail для быстрых регистраций, OTP-подтверждений и одноразовых задач с хранением до 24 часов.",
+			"trashmail — это краткоживущий ящик для случаев, когда сайт просит адрес, но письмо не настолько важно, чтобы попадать в основную почту.",
 		points: [
-			"Подходит для низкорисковых регистраций и подтверждений",
-			"Без аккаунта и пароля — можно начать сразу",
-			"Если письмо не пришло, попробуйте повторную отправку и обновление",
+			"Используйте его для пробных доступов, регистраций с низким риском, ссылок подтверждения и OTP-кодов",
+			"Перед созданием адреса не нужно заводить аккаунт",
+			"Сообщения доступны до 24 часов, а не исчезают, как в 10-минутном ящике",
+			"Постоянную почту оставьте для банка, работы, юридически важных сервисов и восстановления аккаунта",
 		],
 	},
 	pt: {
-		title: "Por que usar o email temporário do trashmail.space",
+		title: "Para que serve o trashmail",
 		description:
-			"trashmail.space oferece temp mail grátis para cadastro rápido, OTP e uso pontual, com caixa descartável por 24 horas.",
+			"trashmail é uma caixa de curta duração para momentos em que um site pede um endereço, mas a mensagem não é importante o bastante para sua caixa principal.",
 		points: [
-			"Bom para cadastro e verificação de baixo risco",
-			"Sem conta e sem senha para começar imediatamente",
-			"Se o email atrasar, reenvie e atualize a caixa de entrada",
+			"Use para testes, cadastros de baixo risco, links de confirmação e códigos OTP",
+			"Não é preciso criar conta antes de gerar um endereço",
+			"As mensagens ficam disponíveis por até 24 horas em vez de sumirem como numa caixa de 10 minutos",
+			"Use seu email permanente para banco, trabalho, temas legais e recuperação de conta",
 		],
 	},
 	ar: {
-		title: "لماذا تستخدم البريد المؤقت من trashmail.space",
+		title: "ما الذي يصلح له trashmail",
 		description:
-			"يوفر trashmail.space بريدًا مؤقتًا مجانيًا (temp mail) للتسجيل السريع ورموز OTP والاستخدام القصير مع احتفاظ لمدة 24 ساعة.",
+			"trashmail هو صندوق قصير العمر للحالات التي يطلب فيها الموقع عنوانًا، لكن الرسالة لا تستحق أن تدخل بريدك الأساسي.",
 		points: [
-			"مناسب لعمليات التسجيل والتحقق منخفضة المخاطر",
-			"بدون حساب أو كلمة مرور لبدء الاستخدام فورًا",
-			"عند تأخر الرسالة جرّب إعادة الإرسال ثم تحديث الوارد",
+			"استخدمه للحسابات التجريبية، والتسجيلات منخفضة المخاطر، وروابط التأكيد، ورموز OTP",
+			"لا تحتاج إلى إنشاء حساب قبل توليد العنوان",
+			"تبقى الرسائل متاحة حتى 24 ساعة بدل أن تختفي مثل صندوق 10 دقائق",
+			"استخدم بريدك الدائم للبنوك والعمل والخدمات القانونية واستعادة الحساب",
 		],
 	},
 };
@@ -354,16 +362,16 @@ function getSeoNarrative(locale: Locale): SeoNarrative {
 function getHomeJsonLd(locale: Locale) {
 	const localizedHomeUrl = `${BASE_URL}${toLocalePath("/", locale)}`;
 	const descriptionByLocale: Record<Locale, string> = {
-		en: "trashmail.space provides free temporary email (temp mail) inboxes for sign-up and OTP verification with 24-hour auto cleanup.",
-		zh: "trashmail.space 提供免费临时邮箱（一次性邮箱）服务，适合临时邮箱注册和验证码接收，邮件 24 小时后自动清理。",
-		es: "trashmail.space ofrece correo temporal gratis (temp mail) para registros y códigos OTP con limpieza automática en 24 horas.",
-		fr: "trashmail.space propose un email temporaire gratuit (temp mail) pour inscription et OTP avec suppression automatique après 24h.",
-		de: "trashmail.space bietet kostenlose temporäre E-Mail (Temp Mail) für Registrierung und OTP mit automatischer 24h-Bereinigung.",
-		ja: "trashmail.space は登録とOTP認証に使える無料の一時メール（temp mail）を提供し、24時間後に自動削除されます。",
-		ko: "trashmail.space는 가입과 OTP 인증에 쓰는 무료 임시 이메일(temp mail)을 제공하며 24시간 후 자동 정리됩니다.",
-		ru: "trashmail.space предоставляет бесплатную временную почту (temp mail) для регистрации и OTP с автоочисткой через 24 часа.",
-		pt: "trashmail.space oferece email temporário grátis (temp mail) para cadastro e OTP com limpeza automática após 24h.",
-		ar: "يوفر trashmail.space بريدًا مؤقتًا مجانيًا (temp mail) للتسجيل ورموز OTP مع حذف تلقائي بعد 24 ساعة.",
+		en: "trashmail.space provides a 24-hour disposable inbox for low-risk signups, verification codes, and short-lived email checks.",
+		zh: "trashmail.space 提供 24 小时一次性收件箱，适合低风险注册、验证码接收和短期收信。",
+		es: "trashmail.space ofrece un buzón desechable de 24 horas para registros de bajo riesgo, códigos de verificación y revisiones de correo de corta duración.",
+		fr: "trashmail.space propose une boîte jetable 24h pour les inscriptions à faible risque, les codes de vérification et les contrôles email de courte durée.",
+		de: "trashmail.space bietet ein Wegwerf-Postfach für 24 Stunden für Registrierungen mit geringem Risiko, Verifizierungscodes und kurzlebige E-Mail-Prüfungen.",
+		ja: "trashmail.space は、低リスクの登録、認証コード、短期のメール確認向けに 24 時間使える使い捨て受信箱を提供します。",
+		ko: "trashmail.space는 저위험 가입, 인증 코드, 짧은 이메일 확인에 맞는 24시간 일회용 메일함을 제공합니다.",
+		ru: "trashmail.space предоставляет одноразовый ящик на 24 часа для низкорисковых регистраций, кодов подтверждения и коротких email-проверок.",
+		pt: "trashmail.space oferece uma caixa descartável de 24 horas para cadastros de baixo risco, códigos de verificação e checagens curtas de email.",
+		ar: "يوفر trashmail.space صندوقًا مؤقتًا لمدة 24 ساعة للتسجيلات منخفضة المخاطر ورسائل التحقق وفحوصات البريد القصيرة.",
 	};
 	const description = descriptionByLocale[locale] ?? descriptionByLocale.en;
 

@@ -39,11 +39,11 @@ type BlogCopy = {
 
 const BLOG_COPY: Record<Locale, BlogCopy> = {
 	en: {
-		title: "Temporary Email Guides, Tips & Fixes | trashmail.space",
+		title: "Temporary Email Guides and Troubleshooting | trashmail.space",
 		description:
-			"Temporary email guides, best practices, and troubleshooting tips for verification and disposable inbox workflows.",
+			"English guides for temporary email use, OTP delivery issues, account signup choices, and disposable inbox troubleshooting.",
 		header: "trashmail.space Blog",
-		subheader: "Guides and troubleshooting for temporary email users",
+		subheader: "Practical notes on signups, OTP delivery, and disposable inbox use",
 		tag: "Blog",
 		readArticle: "Read article",
 		prevPage: "Prev",

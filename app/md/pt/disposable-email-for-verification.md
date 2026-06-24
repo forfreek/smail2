@@ -1,30 +1,35 @@
 ## Email descartável para códigos de verificação
 
-Use email descartável para OTP e links de confirmação sem expor seu endereço pessoal.
+Use uma caixa descartável para verificação quando você precisa de um único código, um único link de confirmação ou uma única mensagem de ativação e não quer associar esse fluxo à sua caixa principal.
 
-### O que pode receber
+Esse é um dos usos mais claros do trashmail: a caixa importa por alguns minutos, mas o endereço não precisa existir a longo prazo.
 
-- Códigos OTP
-- Links de confirmação
-- Emails de ativação
+### Que tipo de mensagem combina bem com isso
 
-### Dicas de entrega
+- códigos OTP por email
+- links de confirmação de cadastro
+- mensagens de ativação
 
-- Copie o endereço com precisão
-- Reenvie o código no serviço de origem
-- Aguarde alguns minutos e atualize
+Essas mensagens são curtas e pontuais. Depois que você as lê, a caixa normalmente deixa de ter valor.
 
-### Segurança
+### Por que as pessoas usam uma caixa descartável
 
-Não utilize para banco, trabalho, governo ou recuperação crítica de contas.
+- menos exposição do endereço pessoal
+- menos spam futuro na caixa principal
+- acesso rápido para concluir uma verificação
 
-### Páginas relacionadas
+### O que conferir se a mensagem atrasar
 
-- [Email temporário de 24 horas](/temporary-email-24-hours)
-- [Email temporário sem cadastro](/temporary-email-no-registration)
-- [Termos de uso](/terms)
+- se o endereço foi copiado corretamente
+- se o site oferece reenvio
+- se a caixa foi atualizada antes de gerar outro endereço
 
-### Mais guias
+Se o mesmo serviço falhar várias vezes, pode haver bloqueio a domínios temporários.
 
-- [Email temporário para cadastro](/temporary-email-for-registration)
-- [Email temporário pode enviar mensagens?](/can-temporary-email-send)
+### Quando não vale usar
+
+Se a verificação envolve banco, trabalho ou uma conta importante, a caixa permanente é mais segura. A capacidade de recuperar o acesso no futuro vale mais do que a conveniência imediata.
+
+### Resumo
+
+Uma caixa descartável funciona muito bem para OTPs e confirmações de baixo risco. Quando a conta se torna duradoura ou sensível, mude para um endereço estável.

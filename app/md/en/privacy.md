@@ -4,39 +4,39 @@ _Last updated: 2026-02-12_
 
 ### 1. Overview
 
-This Privacy Policy explains how trashmail.space ("we", "our", or "us") handles information when you use our temporary email service.
+This Privacy Policy explains what trashmail.space may process when you use the service and what limits apply to a temporary inbox.
 
 By using trashmail.space, you agree to this policy.
 
 ### 2. What information do we collect?
 
-trashmail.space is designed to minimize the information we collect.
+trashmail.space is designed to keep data collection limited to what the service needs to function.
 
-- **Email content**: The emails sent to your temporary addresses are stored on our servers for up to 24 hours so that you can read them.
-- **Technical data**: We may store basic technical information such as IP address, browser type, and timestamps for security, debugging, and abuse prevention.
+- **Email content**: Messages sent to temporary addresses may be stored for up to 24 hours so they can be displayed in the inbox.
+- **Technical data**: Basic technical information such as IP address, browser type, and timestamps may be processed for security, debugging, and abuse prevention.
 
 We do **not** ask you to create an account or provide your real email address by default.
 
 ### 3. How do we use your information?
 
-We use the information we collect to:
+We use that information to:
 
-- Deliver emails to your temporary inbox.
-- Maintain and improve the service.
+- Deliver messages to the temporary inbox.
+- Operate and maintain the service.
 - Detect and prevent abuse, spam, and attacks.
 
 We do **not** sell your data.
 
 ### 4. How long do we keep data?
 
-- **Temporary inboxes and emails** are retained for up to 24 hours and then automatically deleted.
+- **Temporary inboxes and emails** are retained for up to 24 hours and then removed.
 - **Technical logs** may be kept longer for security, debugging, and legal reasons.
 
-trashmail.space is **not** a long‑term storage service. Once data is deleted, it cannot be recovered.
+trashmail.space is **not** a long-term storage service. Once data is removed, it may not be recoverable.
 
 ### 5. Who can see my emails?
 
-Temporary inboxes are **not tied to a personal account**. Anyone who knows or guesses the same address may be able to see the incoming emails for that address.
+Temporary inboxes are **not tied to a personal account**. Anyone who knows or guesses the same address may be able to view incoming messages sent to that address.
 
 Do **not** use trashmail.space for sensitive or private information such as:
 
@@ -44,15 +44,15 @@ Do **not** use trashmail.space for sensitive or private information such as:
 - Government IDs or legal documents
 - Passwords or security codes for important accounts
 
-### 6. Cookies and third‑party services
+### 6. Cookies and third-party services
 
 We may use cookies or similar technologies to:
 
 - Keep the site functioning correctly
-- Measure basic usage (for example, anonymous analytics)
+- Measure basic usage
 - Protect the service from abuse
 
-If we use third‑party services (for example, analytics or error reporting), they may receive limited technical data as part of providing their service. These providers are expected to handle data according to their own privacy policies.
+If we use third-party services such as analytics or error reporting tools, they may receive limited technical data as part of providing that service.
 
 ### 7. Data sharing and legal requirements
 
@@ -66,11 +66,11 @@ We do not share data with advertisers for the purpose of building advertising pr
 
 ### 8. Where is data processed?
 
-trashmail.space may process and store data in different regions or with third‑party infrastructure providers. Your data may be transferred across borders depending on where the service is hosted.
+trashmail.space may process or store data in different regions or through third-party infrastructure providers, depending on how the service is hosted.
 
-### 9. Children’s privacy
+### 9. Children's privacy
 
-trashmail.space is not directed to children under the age where they can legally provide consent to online services in their jurisdiction. If you believe a child has provided us with personal information, please contact us so we can delete it.
+trashmail.space is not directed to children below the age at which they can legally consent to online services in their jurisdiction. If you believe a child has provided personal information, contact us so we can review the request.
 
 ### 10. Changes to this policy
 
@@ -80,4 +80,4 @@ If the changes are material, we may provide additional notice where reasonable.
 
 ### 11. Contact us
 
-If you have questions or concerns about this Privacy Policy, please use the contact link or feedback form on trashmail.space and describe your request clearly.
+If you have questions about this Privacy Policy, use the contact page on trashmail.space and describe your request clearly.

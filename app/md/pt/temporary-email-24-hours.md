@@ -1,26 +1,35 @@
 ## Email temporário de 24 horas
 
-O trashmail.space oferece inbox temporário de 24 horas para fluxos em que a confirmação pode atrasar.
+Use uma caixa de 24 horas quando um fluxo de verificação ou cadastro pode não terminar em uma única sessão curta. É exatamente aí que uma janela de retenção maior faz diferença.
 
-### Vantagens
+O ponto não é apenas manter o email por mais tempo. O ponto é dar tempo suficiente para mensagens atrasadas, novos pedidos de OTP ou etapas de registro que não terminam imediatamente.
 
-- Mais tempo do que serviços de 10 minutos
-- Melhor para cadastros em várias etapas
-- Permite voltar depois para conferir mensagens
+### Quando uma caixa de 24 horas é útil
 
-### Como usar
+- links de confirmação chegam atrasados
+- você precisa concluir o cadastro em mais de uma sessão
+- um segundo OTP chega horas depois do primeiro passo
 
-1. Gere um endereço temporário.
-2. Use no site de destino.
-3. Confira a caixa no trashmail.space.
-4. Salve dados importantes antes do prazo.
+Nesses casos, uma caixa de 10 minutos pode expirar antes de você terminar.
 
-### Páginas relacionadas
+### Por que esse tempo importa
 
-- [Email temporário sem cadastro](/temporary-email-no-registration)
-- [Email descartável para verificação](/disposable-email-for-verification)
-- [FAQ](/faq)
+Algumas falhas de verificação não acontecem por causa do endereço, mas por irregularidade no tempo de envio do remetente. Uma janela de 24 horas absorve melhor esse atraso.
 
-### Mais cenários úteis
+### O que ainda assim precisa ser feito
 
-Este fluxo funciona bem junto com [email temporário para cadastro](/temporary-email-for-registration) e [email temporário online](/online-temporary-email).
+Mesmo com 24 horas de retenção, salve o que for importante assim que chegar:
+
+- códigos OTP
+- links de ativação
+- números de referência
+
+Uma caixa temporária não substitui um arquivo.
+
+### Quando não vale depender disso
+
+Se a conta ficar importante depois do cadastro, mude o contato futuro para um alias ou para sua caixa permanente. O endereço temporário serve bem para a entrada, não para a gestão de longo prazo.
+
+### Resumo
+
+Uma caixa temporária de 24 horas é útil quando o fluxo leva tempo, não quando a conta tem valor de longo prazo. Ela ajuda principalmente com atrasos e processos em várias etapas.

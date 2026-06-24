@@ -1,26 +1,35 @@
-## 24-Stunden Temporäre E-Mail
+## 24-Stunden-Temporärpostfach
 
-trashmail.space bietet ein 24h-Postfach für Registrierungen, bei denen Bestätigungen verspätet eintreffen.
+Nutze ein 24-Stunden-Postfach, wenn ein Verifizierungs- oder Registrierungsablauf nicht in einer kurzen Sitzung abgeschlossen wird. Genau dann ist ein längeres Aufbewahrungsfenster sinnvoll.
 
-### Warum 24 Stunden sinnvoll sind
+Es geht nicht nur darum, E-Mails länger vorzuhalten. Es geht darum, genug Zeit für verzögerte Nachrichten, erneute OTP-Anfragen oder Registrierungs-Schritte zu haben, die nicht sofort abgeschlossen werden.
 
-- Mehr Zeit als bei 10-Minuten-Mail
-- Geeignet für mehrstufige Registrierung
-- Späteres Nachsehen möglich
+### Wann ein 24-Stunden-Postfach sinnvoll ist
 
-### Nutzung
+- Bestätigungslinks kommen verspätet an
+- Du musst die Registrierung über mehrere Sitzungen hinweg abschließen
+- Ein zweiter OTP wird Stunden nach dem ersten Schritt gesendet
 
-1. Temporäre Adresse erzeugen.
-2. Auf der Zielseite eintragen.
-3. Posteingang bei trashmail.space prüfen.
-4. Wichtige Infos vor Ablauf sichern.
+In solchen Fällen kann ein 10-Minuten-Postfach ablaufen, bevor die Arbeit erledigt ist.
 
-### Verwandte Seiten
+### Warum dieses Zeitfenster zählt
 
-- [Temporäre E-Mail ohne Registrierung](/temporary-email-no-registration)
-- [Wegwerf-E-Mail für Verifizierung](/disposable-email-for-verification)
-- [FAQ](/faq)
+Manche Verifizierungen scheitern nicht an der Adresse, sondern an ungleichmäßigem Timing auf Sender-Seite. Ein 24-Stunden-Fenster gibt dir mehr Spielraum.
 
-### Weitere Einsatzfälle
+### Was du trotzdem tun solltest
 
-Kombiniere diesen Ablauf mit [temporärer E-Mail für Registrierung](/temporary-email-for-registration) und [Online-Temporärmail](/online-temporary-email).
+Auch bei 24 Stunden Aufbewahrung solltest du wichtige Dinge sofort sichern:
+
+- OTP-Codes
+- Aktivierungslinks
+- Referenznummern
+
+Ein temporäres Postfach ist kein Archiv.
+
+### Wann du dich nicht darauf verlassen solltest
+
+Wenn ein Konto nach der Registrierung wichtig wird, verlege spätere Kontakte auf einen Alias oder ein dauerhaftes Postfach. Die temporäre Adresse eignet sich für den Einstieg, nicht für dauerhafte Kontoverwaltung.
+
+### Kurz gesagt
+
+Ein 24-Stunden-Temporärpostfach ist nützlich, wenn der Ablauf Zeit braucht, nicht wenn das Konto langfristig wertvoll ist. Es hilft vor allem bei Verzögerungen und mehrstufigen Prozessen.

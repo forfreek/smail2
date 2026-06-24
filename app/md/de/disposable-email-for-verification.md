@@ -1,30 +1,35 @@
 ## Wegwerf-E-Mail für Verifizierungscodes
 
-Nutze eine Wegwerf-E-Mail für OTP und Bestätigungslinks, ohne deine Hauptadresse offenzulegen.
+Nutze ein Wegwerf-Postfach für Verifizierungen, wenn du einen einzelnen Code, einen einzelnen Bestätigungslink oder eine Aktivierungsnachricht brauchst und diesen Ablauf nicht mit deinem Hauptpostfach verknüpfen willst.
 
-### Empfangbare Inhalte
+Das ist einer der klarsten Anwendungsfälle für trashmail: Das Postfach ist nur für ein paar Minuten wichtig, die Adresse braucht aber keinen langfristigen Besitz.
 
-- OTP-Codes
-- Bestätigungslinks
+### Welche Verifizierungsnachrichten gut passen
+
+- E-Mail-OTP-Codes
+- Bestätigungslinks bei Registrierungen
 - Aktivierungsnachrichten
 
-### Zustelltipps
+Diese Nachrichten sind kurzlebig. Sobald du sie gelesen hast, hat das Postfach meist keinen langfristigen Wert mehr.
 
-- Adresse exakt kopieren
-- Code erneut anfordern
-- Einige Minuten warten und aktualisieren
+### Warum Menschen ein Wegwerf-Postfach verwenden
 
-### Sicherheit
+- geringere Offenlegung der persönlichen Adresse
+- weniger künftiger Spam im Hauptpostfach
+- schneller Zugriff, um eine Verifizierung abzuschließen
 
-Nicht für Bank-, Arbeits-, Behörden- oder kritische Recovery-Konten nutzen.
+### Was du prüfen solltest, wenn die Nachricht ausbleibt
 
-### Verwandte Seiten
+- Wurde die Adresse exakt kopiert?
+- Hat die Website ein erneutes Senden angeboten?
+- Wurde das Postfach aktualisiert, bevor eine neue Adresse erzeugt wurde?
 
-- [24-Stunden Temporäre E-Mail](/temporary-email-24-hours)
-- [Temporäre E-Mail ohne Registrierung](/temporary-email-no-registration)
-- [Nutzungsbedingungen](/terms)
+Wenn derselbe Dienst mehrfach scheitert, blockiert er möglicherweise temporäre Domains.
 
-### Weitere Guides
+### Wann du es nicht verwenden solltest
 
-- [Temporäre E-Mail für Registrierung](/temporary-email-for-registration)
-- [Kann temporäre E-Mail Nachrichten senden?](/can-temporary-email-send)
+Wenn die Verifizierung zu einem Banking-, Arbeits- oder wichtigen Konto gehört, ist ein dauerhaftes Postfach sicherer. Spätere Wiederherstellung ist wichtiger als kurzfristige Bequemlichkeit.
+
+### Kurz gesagt
+
+Ein Wegwerf-Postfach eignet sich sehr gut für OTPs und Bestätigungen mit geringem Risiko. Sobald ein Konto dauerhaft oder sensibel wird, solltest du auf eine stabile Adresse wechseln.

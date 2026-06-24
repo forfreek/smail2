@@ -1,40 +1,51 @@
-## About trashmail.space Temporary Email
+## About trashmail
 
-trashmail.space is a lightweight **temporary email generator** for short-term inbox use. You can create a disposable address in seconds, receive verification emails, and keep your real inbox cleaner.
+trashmail.space gives you a short-lived inbox for situations where a website needs an address, but the email is not important enough for your primary mailbox. The service is built for receiving messages, checking them, and moving on.
 
-### Why trashmail.space exists
+It is not meant to replace your personal email account. It keeps low-value registrations, verification flows, and one-off inbox checks out of your long-term mailbox.
 
-Most websites now ask for an email before you can continue. For low-risk actions, this usually creates unnecessary costs:
+### What trashmail is for
 
-- Extra marketing emails in your personal inbox
-- More exposure of your long-term identity email
-- More account noise to manage later
+Use trashmail when you need to:
 
-trashmail.space gives you a simple alternative: use a temporary mailbox first, then switch to your permanent email only when needed.
+- receive a signup confirmation
+- check an OTP or verification link
+- test an email flow during QA or development
+- keep trial registrations away from your main inbox
 
-### Typical use cases
+This is the right tool when the inbox is temporary and the account itself is low risk.
 
-- Sign-up verification for trial accounts
-- One-time coupon or download confirmations
-- QA/testing flows that require email delivery
-- Low-risk registration where you do not need long-term inbox history
+### What trashmail is not for
 
-### What makes trashmail.space different
+Do not use trashmail for:
 
-- Fast inbox creation, no onboarding friction
-- 24-hour retention window for delayed emails
-- Clean, focused interface for receiving and reading messages
+- banking or payment accounts
+- work, legal, or government systems
+- password recovery for accounts that matter long term
+- private communication that should stay under your personal control
 
-### Important boundaries
+If losing access to the email would create a real problem, use a permanent mailbox instead.
 
-trashmail.space is not designed for critical identity workflows. Do not use temporary email for:
+### How the service behaves
 
-- Banking or payment accounts
-- Work and government systems
-- Legal, tax, or high-value account recovery
+trashmail is designed around a simple rule set:
 
-If an account matters long-term, use a permanent secure mailbox.
+- addresses are created quickly
+- messages are kept for up to 24 hours
+- the inbox is for receiving, not long-term storage
+- the service should be treated as temporary infrastructure, not identity infrastructure
+
+That means the service is useful when you need speed and separation, but not when you need durability.
+
+### Why this boundary matters
+
+Many temporary email websites talk mostly about convenience. The more important question is when not to use one.
+
+trashmail is useful when the email itself is disposable.
+It is the wrong choice when the mailbox becomes part of long-term account security.
+
+That distinction matters more than any feature list.
 
 ### Contact
 
-For support or feedback, use the contact channel provided on the site.
+If you need help or want to report a problem, use the contact page on the site.

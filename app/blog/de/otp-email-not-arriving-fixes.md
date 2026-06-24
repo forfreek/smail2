@@ -1,39 +1,39 @@
-## OTP-Mail kommt nicht an? 8 schnelle Lösungen
+## OTP-E-Mail kommt nicht an? 8 Prüfungen, bevor du neu anfängst
 
-Wenn die Bestätigungsmail mit dem Code verspätet ist, starte nicht sofort alles neu. Geh diese Checkliste der Reihe nach durch.
+Wenn ein Verifizierungscode nicht ankommt, fordern viele Nutzer zu früh einen neuen an, wechseln die Adresse oder starten den gesamten Registrierungsablauf neu. Das macht das Problem meist schwerer nachvollziehbar. Geh diese Prüfungen zuerst der Reihe nach durch.
 
-### 1) Erst 1–3 Minuten warten
+### 1) Warte eine Minute, bevor du etwas tust
 
-Viele Anbieter stellen Verifizierungsmails in Warteschlangen. Kurze Verzögerungen sind normal.
+Verifizierungs-E-Mails verzögern sich oft durch Absender-Warteschlangen, Ratenbegrenzungen oder Traffic-Spitzen. Eine kurze Wartezeit ist normal, besonders direkt nachdem du auf „Code senden“ geklickt hast.
 
-### 2) Adresse auf Tippfehler prüfen
+### 2) Prüfe die exakt eingegebene Adresse noch einmal
 
-Schon ein kleiner Fehler im Postfachnamen reicht aus, damit die Mail verloren geht.
+Die meisten Zustellfehler sind nicht technisch. Sie entstehen durch Tippfehler, ein fehlendes Zeichen oder eine ältere temporäre Adresse aus einem anderen Tab.
 
-### 3) Postfach manuell aktualisieren
+### 3) Aktualisiere das Postfach manuell
 
-Nutze zuerst den Refresh-Button, bevor du eine neue Adresse erzeugst. So erwischst du verspätete Zustellungen.
+Wenn du `trashmail.space` nutzt, aktualisiere zuerst das Postfach, bevor du eine neue Adresse erzeugst. Eine verspätete Nachricht könnte bereits warten.
 
-### 4) Auf der Quellseite neu senden
+### 4) Sende einmal neu, dann warte wieder
 
-Die meisten Plattformen bieten einen Resend-Link. Einmal neu senden, dann erneut kurz warten.
+Nutze die Wiederholen-Funktion der Website einmal. Wiederholtes schnelles Klicken kann Cooldowns auslösen oder mehrere Codes erzeugen, wodurch es schwerer wird, den aktuellen Code zu erkennen.
 
-### 5) Sender-Richtlinie prüfen
+### 5) Prüfe, ob die Website temporäre Domains blockiert
 
-Einige Dienste blockieren temporäre Domains. Wenn mehrfache Neuversuche scheitern, kann das der Grund sein.
+Manche Dienste akzeptieren Registrierungen, hören aber stillschweigend auf, Verifizierungs-E-Mails an Wegwerf-Domains zu senden. Wenn dieselbe Website mehr als einmal scheitert, ist Domain-Blockierung eine wahrscheinliche Ursache.
 
-### 6) Adresse nicht zu schnell wechseln
+### 6) Wechsle nicht mitten im Ablauf das Postfach
 
-Wenn du zu früh wechselst, geht der nächste Code oft noch an die alte Adresse.
+Wenn du einen Code mit einer Adresse anforderst und sie dann zu schnell ersetzt, kann die Nachricht immer noch an das erste Postfach gesendet werden. Schließe die Prüfung auf der ursprünglichen Adresse ab, bevor du etwas änderst.
 
-### 7) Einen stabilen Fallback nutzen
+### 7) Nutze für wichtige Konten einen stabilen Fallback
 
-Bei mittel- bis hochwichtigen Konten auf Alias oder dauerhaftes Postfach wechseln, um die Registrierung abzuschließen.
+Wenn das Konto später wichtig sein soll, wechsle zu einem E-Mail-Alias oder deinem normalen Postfach. Temporäre E-Mail ist praktisch für schnelle Registrierungen, aber nicht jeder Absender unterstützt sie zuverlässig.
 
-### 8) Zeitpunkte für den Support notieren
+### 8) Notiere das Timing, falls du Support brauchst
 
-Halte fest, wann du den Code angefordert hast und ob Resend genutzt wurde. Das beschleunigt die Log-Prüfung beim Support.
+Halte fest, wann der Code angefordert wurde, ob erneut gesendet wurde und welche Adresse eingegeben war. Diese drei Details reichen Support-Teams oft schon, um Zustellprotokolle zu prüfen.
 
-### Fazit
+### Kurz gesagt
 
-Die meisten OTP-Probleme sind Timing, Tippfehler oder Senderpolitik. Eine strukturierte Reihenfolge löst sie schneller als zufälliges Adresswechseln.
+Wenn eine OTP-E-Mail nicht ankommt, liegt das meist an Timing, einer falschen Adresse oder einer Absender-Regel. Prüfe diese Punkte in genau dieser Reihenfolge, bevor du den Prozess neu startest.

@@ -1,39 +1,41 @@
-## Temporäre E-Mail vs E-Mail-Alias: Was ist besser?
+## Temporäre E-Mail vs. E-Mail-Alias: Welche solltest du verwenden?
 
-Temporäre Postfächer und E-Mail-Aliase schützen beide deine Hauptadresse, lösen aber unterschiedliche Probleme.
+Temporäre E-Mail und E-Mail-Aliase verbergen beide deine Hauptadresse, sind aber keine austauschbaren Werkzeuge. Das eine ist für kurzfristigen Zugriff gebaut. Das andere für Kontinuität.
 
-### Kurz erklärt
+### Was temporäre E-Mail gut kann
 
-- **Temporäre E-Mail**: kurzfristiges Wegwerf-Postfach, meist ohne Registrierung
-- **E-Mail-Alias**: stabile Weiterleitungsadresse zu deinem permanenten Postfach
+Ein temporäres Postfach ist nützlich, wenn du sofort eine Adresse brauchst und keine langfristige Beziehung mit dem Dienst willst. Es eignet sich am besten für Testläufe, einmalige Registrierungen, Download-Schranken und schnelle Verifizierungen.
 
-### Temporäre E-Mail wählen, wenn
+### Was ein E-Mail-Alias gut kann
 
-- du sofortigen Zugriff ohne Konto brauchst
-- du Dienste schnell testest
-- du keine langfristige Nutzung erwartest
-- du eine klare Trennung zum privaten Postfach willst
+Ein Alias ist besser, wenn das Konto nächsten Monat noch wichtig sein könnte. Passwort-Resets, Rechnungen, Sicherheitswarnungen und Konto-Wiederherstellung funktionieren sauberer, wenn E-Mails weiterhin dein echtes Postfach erreichen.
 
-### Alias wählen, wenn
+### Wähle temporäre E-Mail, wenn
 
-- du später Passwort-Resets brauchen könntest
-- du langfristige Kontinuität für Logins willst
-- du mehr Zustellstabilität brauchst
-- du ein Postfach behalten und trotzdem deine echte Adresse verbergen willst
+- die Registrierung risikoarm ist
+- du keine Registrierung für das Postfach willst
+- du nicht erwartest, zum Konto zurückzukehren
+- Spam aus dem Hauptpostfach wichtiger ist als spätere Wiederherstellung
 
-### Sicherheit und Wiederherstellung
+### Wähle einen E-Mail-Alias, wenn
 
-Temporäre E-Mail ist stark für schnelle Privatsphäre, aber schwach für langfristige Account-Recovery. Alias-Setups sind stärker für Kontinuität, weil Recovery-Mails in deinem echten Postfach landen.
+- du später möglicherweise Wiederherstellung brauchst
+- der Dienst später noch wichtig werden könnte
+- du eine stabile Adresse willst, ohne dein Hauptpostfach offenzulegen
+- du alles von einem dauerhaften Postfach aus verwalten möchtest
 
-### Spam-Kontrolle
+### Datenschutz-Abwägung
 
-Beide Varianten reduzieren Spam-Risiko. Temporäre E-Mail ist aggressiver für Einmalnutzung. Aliase sind besser für laufende Dienste, weil du einen einzelnen Alias deaktivieren kannst, ohne dein Hauptkonto zu ändern.
+Temporäre E-Mail schafft stärkere Trennung, weil das Postfach wegwerfbar ist. Ein Alias bietet weniger Trennung, dafür deutlich mehr Kontinuität. Diese Abwägung ist wichtiger als eine bloße Funktionsliste.
 
-### Praktische Entscheidungsregel
+### Wiederherstellungs-Abwägung
 
-- **Einmalig / geringes Risiko** → temporäre E-Mail
-- **Langfristig / wichtig** → E-Mail-Alias oder Hauptpostfach
+Das ist meist der eigentliche Entscheidungsfaktor. Wenn es lästig wäre, den Zugriff zu verlieren, ist ein Alias die sicherere Wahl. Wenn das Konto selbst wegwerfbar ist, reicht ein temporäres Postfach.
 
-### Fazit
+### Einfache Regel
 
-Es gibt keinen universellen Sieger. Die richtige Wahl hängt von Kontowichtigkeit, Recovery-Anforderungen und benötigter Zugriffsdauer ab.
+Nutze temporäre E-Mail für einmaligen oder wenig wertvollen Zugriff. Nutze einen Alias für alles, was du später wiederherstellen, behalten oder verlässlich nutzen möchtest.
+
+### Kurz gesagt
+
+Die richtige Wahl hängt vor allem von der Lebensdauer des Kontos ab. Wenn das Konto heute endet, reicht temporäre E-Mail. Wenn es im nächsten Quartal noch existieren könnte, nimm einen Alias oder dein normales Postfach.

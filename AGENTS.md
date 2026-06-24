@@ -1,76 +1,137 @@
 # Repository Guidelines
 
-## 交流与输出语言
-- 与用户沟通、任务说明、变更总结默认使用中文。
-- 仅在用户明确要求时使用英文。
-- 代码标识符、文件名、路由 slug 保持英文，不做无必要翻译。
+## Communication
 
-## 项目结构与模块说明
-- `app/`：React Router Framework Mode 主应用。
-- `app/routes/`：路由模块（首页、Markdown 页、博客、RSS、Sitemap、API 等）。
-- `app/md/<locale>/`：多语言 SEO Markdown 页面。
-- `app/blog/<locale>/`：多语言博客 Markdown 内容；元数据在 `app/blog/data.ts`。
-- `app/i18n/`：语言配置与文案。
-- `app/.server/session.ts`：基于 Cloudflare KV 的 Session 存储。
-- `app/utils/`：通用工具（主题、meta、邮件保留策略等）。
-- `workers/app.ts`：Cloudflare Worker 入口，处理 `fetch` / `email` / `scheduled`。
-- `migrations/*.sql`：D1 SQL 迁移文件（当前项目不使用 ORM）。
+- Default to Chinese for user-facing explanations, task notes, and change summaries.
+- Keep code identifiers, file names, route slugs, and technical keywords in English.
+- Prefer concise, implementation-oriented answers over broad discussion.
+- Read `docs/index.md` first and load other docs on demand.
 
-## 真实数据架构（必须遵循）
-- D1：仅存邮件元数据（`emails` 表）。
-- R2：存邮件原始内容（对象 key = 邮件 `id`）。
-- KV：存会话数据（临时邮箱地址、签发时间等）。
-- 邮件详情接口：`/api/email/:id`，必须校验会话地址归属与过期状态。
+## Project Overview
 
-## 开发与构建命令
-- `pnpm install`：安装依赖。
-- `pnpm run dev`：本地开发。
-- `pnpm run build`：生产构建。
-- `pnpm run preview`：本地预览构建产物。
-- `pnpm run typecheck`：Cloudflare 类型生成 + Router 类型生成 + TS 检查。
-- `pnpm run cf-typegen`：重新生成 Cloudflare 环境类型。
-- `pnpm run migrate`：远端执行 D1 迁移（绑定名：`D1`）。
-- `pnpm run deploy`：构建 + 迁移 + Wrangler 部署。
+- Product: `trashmail.space`
+- Type: temporary email website running on Cloudflare Workers
+- Frontend: React 19 + React Router 7
+- Infra: Cloudflare Workers + D1 + R2
+- Content model:
+  - `app/routes/` for route modules
+  - `app/md/<locale>/` for SEO landing pages
+  - `app/blog/<locale>/` for blog content
+  - `app/i18n/` for UI copy and dictionaries
+  - `app/seo.config.ts` for indexable route definitions
+  - `workers/app.ts` for `fetch`, `email`, and `scheduled` entrypoints
 
-## 代码风格与命名规范
-- 使用 TypeScript/TSX + ESM。
-- 遵循现有代码风格：
-  - 缩进使用 Tab。
-  - 保持现有文件风格一致，避免无关格式化。
-- 路由命名遵循当前约定（如 `blog.post.tsx`、`sitemap.xml.tsx`、`robots.txt.tsx`）。
-- 变量/函数使用 `camelCase`，常量使用 `UPPER_SNAKE_CASE`。
+## Architecture Rules
 
-## SEO / 多语言改动联动规则
-涉及 SEO 或内容改动时，必须检查并同步以下位置：
-- 路由注册：`app/routes.ts`
-- SEO 基础路径：`app/seo.config.ts`
-- Markdown 页 meta 与结构化数据：`app/routes/md.tsx`
-- Sitemap 输出：`app/routes/sitemap.xml.tsx`
-- 对应语言内容文件：`app/md/<locale>/...`
+- D1 stores email metadata only.
+- R2 stores raw email content only.
+- Session data belongs in cookie/KV-backed session handling, not in D1.
+- Email detail access must validate both mailbox ownership and retention window.
+- Do not introduce ORM or unrelated persistence abstractions unless explicitly requested.
+- Do not modify the current routing structure, API shape, or application architecture unless the user explicitly asks for it.
 
-新增 Markdown 落地页时，至少保证：
-- `en` 与 `zh` 内容完整；
-- 其他已支持语言补齐同名文件，避免出现可访问但内容缺失。
+## Coding Style
 
-## 测试与提交前检查
-当前项目未配置独立单测框架，提交前至少执行：
+- Use TypeScript/TSX and ESM.
+- Preserve existing formatting conventions.
+- Avoid unrelated refactors while doing targeted work.
+- Add comments only when the logic is not obvious from the code itself.
+
+## Content And SEO Rules
+
+This repository was forked from another project. Content uniqueness is now a hard requirement.
+
+- Treat `trashmail.space` as the only primary brand.
+- Do not reuse original-project wording, positioning, or brand narratives verbatim.
+- Do not mention the original author or source project in page copy unless the page explicitly exists for attribution or migration notes.
+- Do not publish pages whose title, description, headings, FAQ copy, or JSON-LD still read like generic cloned temp-mail SEO text.
+- Every indexable page must have unique value beyond keyword substitution.
+- Do not publish copy that reads like generic AI-generated marketing content.
+
+### Brand Constraints
+
+- Primary site name is `trashmail.space`.
+- Allowed comparison/clarification page:
+  - `smail-vs-smailpro`
+- Outside explicit clarification pages, avoid overusing `smail`, `smail pro`, or `smailpro`.
+- If a page must mention another brand, the copy must clearly explain why the mention exists and must not imply affiliation.
+
+### Indexable Content Constraints
+
+For any page under `app/md/` or `app/blog/`, ensure all of the following are true:
+
+- The page has a distinct search intent.
+- The `title` and `description` are not copied from another locale or source site.
+- The first screen content states what the page helps with in plain language.
+- The body contains site-specific wording, not generic SEO filler.
+- Internal links point to real supporting pages on this site.
+- Claims about retention, OTP delivery, privacy, or product behavior match the actual implementation.
+
+### No-Clone Checklist
+
+Before merging any content change, verify:
+
+1. The page does not use inherited brand copy unchanged.
+2. The page title is specific to the actual intent.
+3. The meta description is rewritten, not lightly paraphrased.
+4. Headings and FAQ entries are not mirror copies of the source project.
+5. Structured data text matches the rewritten visible content.
+6. Internal CTA labels and footer/navigation wording still fit the current brand.
+7. The copy does not rely on empty marketing adjectives or filler transitions.
+
+## Required File Sync For Markdown And SEO Changes
+
+When adding or changing an SEO landing page, check and sync all relevant locations:
+
+1. `app/routes.ts`
+2. `app/seo.config.ts`
+3. `app/routes/md.tsx`
+4. `app/routes/sitemap.xml.tsx`
+5. `app/md/<locale>/<slug>.md`
+6. Any impacted UI copy in `app/i18n/messages.ts`
+
+When adding or changing blog content, check and sync:
+
+1. `app/blog/data.ts`
+2. `app/routes/blog.tsx`
+3. `app/routes/blog.page.tsx`
+4. `app/routes/blog.post.tsx`
+5. `app/routes/rss.xml.tsx`
+6. `app/routes/sitemap.xml.tsx`
+7. `app/blog/<locale>/<slug>.md`
+
+## Locale Rules
+
+- Supported locales must stay aligned with `app/i18n/config.ts`.
+- Do not add a locale-specific page to sitemap/indexing unless the actual content exists.
+- English and Chinese should be updated first when creating a new landing page.
+- Do not ship placeholder translations.
+- If a locale is incomplete, prefer not indexing it over indexing weak or duplicated copy.
+- After English is accepted, translation rollout should proceed one locale at a time.
+- Do not start multiple locale rewrites in parallel unless explicitly requested.
+
+## Implementation Truthfulness
+
+- If the product is receive-only, do not imply outbound sending support.
+- If retention is 24 hours, do not use vague wording that suggests longer storage.
+- If cleanup is scheduled, describe it conservatively.
+- Do not claim mailbox anonymity, deliverability, or reliability beyond what the code and infrastructure actually guarantee.
+
+## Validation Before Delivery
+
+Run these when code or content changes affect behavior or build output:
+
 1. `pnpm run typecheck`
 2. `pnpm run build`
 
-涉及 D1 结构变更时还需：
-- 提交对应 `migrations/*.sql`
-- 在目标环境执行 `pnpm run migrate` 验证。
+Also verify manually:
 
-## Commit / PR 规范
-- 提交信息使用简短祈使句，单次提交聚焦一个主题。
-- PR 描述需包含：
-  - 变更目的
-  - 关键文件路径
-  - 已执行命令及结果
-  - 若有 UI 变化，附截图
-- 涉及 i18n / SEO / 部署配置时，需明确说明影响范围。
+1. The route renders.
+2. The title and description are correct.
+3. The page appears in sitemap if it should be indexed.
+4. The page is absent from sitemap or marked `noindex` if it should not be indexed.
 
-## 安全与配置
-- 禁止提交任何密钥、Token、私密凭证。
-- `wrangler.jsonc` 中的资源 ID/名称可公开，但不要提交可直接鉴权的敏感信息。
-- 开源一键部署依赖仓库中的 `wrangler.jsonc`，不要只保留 example 文件。
+## Content Workflow Reference
+
+- Start from `docs/index.md`.
+- Use `docs/content-seo-rules.md` for the detailed editorial workflow.

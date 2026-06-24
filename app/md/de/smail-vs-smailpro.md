@@ -1,15 +1,27 @@
 ## trashmail.space vs smailpro
 
-Offizielle Klarstellung: **trashmail.space ist ein unabhängiger Dienst**.
+Manche Nutzer suchen nach `smail`, `smail pro` oder `smailpro` und landen dann auf trashmail.space. Diese Seite soll die Unterscheidung klar machen.
 
-### Wichtig
+trashmail.space ist ein eigenständiger Dienst. Es ist keine umbenannte Version eines anderen Temp-Mail-Produkts und wird hier auch nicht als verbundene Marke dargestellt.
 
-- trashmail.space ist nicht identisch mit smail pro oder smailpro
-- Keine Zugehörigkeit zu ähnlich benannten Diensten
-- Funktionen und Richtlinien werden separat betrieben
+### Was diese Seite klarstellt
 
-### Verwandte Seiten
+- trashmail.space ist nicht dasselbe Produkt wie smail pro oder smailpro
+- trashmail.space ist mit keiner ähnlich benannten Temp-Mail-Marke verbunden
+- Funktionen, Richtlinien und Infrastruktur werden unabhängig betrieben
 
-- [Über trashmail.space](/about)
-- [FAQ](/faq)
-- [Datenschutzrichtlinie](/privacy)
+### Warum Nutzer Verwirrung erleben
+
+Ähnliche Markensuchen überschneiden sich manchmal. Das bedeutet aber keine gemeinsame Eigentümerschaft, Partnerschaft oder Produktidentität.
+
+### Warum diese Klarstellung wichtig ist
+
+Wenn Nutzer nach einem bestimmten Dienst suchen, sollten sie wissen:
+
+- welches Produkt sie tatsächlich verwenden
+- welche Regeln für diesen Dienst gelten
+- wo sie die richtigen Informationen über Richtlinien und Betrieb finden
+
+### Kurz gesagt
+
+trashmail.space ist ein eigenständiger Dienst. Wenn du Informationen über smailpro suchst, solltest du nicht automatisch annehmen, dass sie hier gelten.

@@ -17,6 +17,7 @@ import {
 	normalizePathname,
 	SUPPORTED_LOCALES,
 	stripLocalePrefix,
+	toIntlLocale,
 	toLocalePath,
 } from "~/i18n/config";
 import {
@@ -34,7 +35,7 @@ import "./app.css";
 
 const SITE_OG_TITLE = "trashmail.space · 24-Hour Temporary Email";
 const SITE_OG_DESCRIPTION =
-	"Free disposable email inbox with 24-hour auto-expiry. Use a temporary address for sign-ups and verification.";
+	"24-hour temporary inbox for low-risk signups, OTP checks, and disposable email use without exposing your primary address.";
 
 export async function loader({ request }: Route.LoaderArgs) {
 	const theme = parseThemeFromCookieHeader(request.headers.get("Cookie"));
@@ -65,7 +66,7 @@ export function meta({ location }: Route.MetaArgs) {
 	const alternateLinks = alternateLocales.map((supportedLocale) => ({
 		tagName: "link" as const,
 		rel: "alternate",
-		hrefLang: supportedLocale,
+		hrefLang: toIntlLocale(supportedLocale),
 		href: `${BASE_URL}${toLocalePath(basePath, supportedLocale)}`,
 	}));
 

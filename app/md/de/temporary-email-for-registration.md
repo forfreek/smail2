@@ -1,22 +1,38 @@
-## Temporäre E-Mail für Registrierung
+## Temporäre E-Mail für Registrierungen
 
-Nutze **temporäre E-Mail für Registrierung**, wenn du Konten verifizieren willst, ohne deine Hauptadresse preiszugeben.
+Nutze ein temporäres Postfach für Registrierungen, wenn das Konto risikoarm ist und du die Adresse nur so lange brauchst, bis die Anmeldung abgeschlossen ist.
 
-### Geeignete Fälle
+Die eigentliche Frage ist nicht nur Bequemlichkeit. Entscheidend ist, ob das Konto nach der ersten Verifizierungsnachricht noch wichtig sein wird.
 
-- Testkonten und Probezugänge
-- Download- oder Coupon-Formulare
-- Einmalige Anmeldungen mit geringem Risiko
+### Wann eine Registrierung gut dazu passt
 
-### So gehst du vor
+- Erstellung eines Testkontos
+- App-Onboarding mit E-Mail-Bestätigung
+- einmalige Gutschein- oder Download-Formulare
+- Community-Anmeldungen mit geringem Risiko
 
-1. Erzeuge eine Wegwerfadresse auf trashmail.space.
-2. Nutze sie im Registrierungsformular.
-3. Hole OTP oder Bestätigungslink im temporären Postfach.
-4. Schließe die Anmeldung ohne Hauptadresse ab.
+In solchen Fällen hilft dir das Postfach, den Ablauf abzuschließen, ohne mehr Lärm in dein Hauptpostfach zu bringen.
 
-### Verwandte Seiten
+### Wann du es besser vermeiden solltest
 
-- [Temporäre E-Mail ohne Registrierung](/temporary-email-no-registration)
-- [Wegwerf-E-Mail für Verifizierung](/disposable-email-for-verification)
-- [FAQ](/faq)
+Nutze kein temporäres Postfach für:
+
+- Banking
+- Arbeit
+- identitätsbezogene Konten
+- Dienste, bei denen spätere Wiederherstellung wichtig ist
+
+Wenn du glaubst, dass du in sechs Monaten noch auf das Konto zugreifen willst, ist eine stabile Adresse besser geeignet.
+
+### So nutzt du es sinnvoll
+
+- Adresse erzeugen
+- Registrierung abschließen
+- Code oder Link abrufen
+- wichtige Details vor dem Schließen sichern
+
+Wenn das Konto später nützlich wird, ändere die Kontaktadresse anschließend, sofern der Dienst das erlaubt.
+
+### Kurz gesagt
+
+Temporäre E-Mail für Registrierungen ist sinnvoll, wenn der Zugriff kurz, das Risiko gering und spätere Wiederherstellung unwichtig ist.

@@ -1,19 +1,35 @@
 ## Un email temporaire peut-il envoyer des messages ?
 
-Dans la plupart des cas, l'**email temporaire est en réception seule** pour OTP et confirmations.
+Dans la plupart des cas, non. Les boîtes temporaires sont généralement construites pour recevoir des messages, pas pour en envoyer.
 
-### Pourquoi réception seule
+Ce n'est pas un oubli. C'est l'une des limites qui rend ce type de boîte utilisable pour les vérifications rapides.
 
-- Réduction du spam et des abus
-- Contrôles anti-fraude simplifiés
-- Service plus stable pour usage jetable
+### Pourquoi la réception seule est fréquente
 
-### Quand passer à un email permanent
+- risque d'abus plus faible
+- règles anti-abus et modération plus simples
+- infrastructure plus rapide pour des boîtes dédiées à la réception
 
-Choisissez une boîte permanente si vous devez envoyer, répondre et conserver l'historique.
+Ces contraintes font partie de ce qui permet à une boîte temporaire de rester simple et rapide.
 
-### Pages liées
+### Ce que cela implique pour les utilisateurs de trashmail
 
-- [Email jetable pour vérification](/disposable-email-for-verification)
-- [Email temporaire sans inscription](/temporary-email-no-registration)
-- [Conditions d'utilisation](/terms)
+Considérez trashmail comme une boîte de réception pour :
+
+- OTP
+- liens de confirmation
+- messages d'activation
+
+Si vous devez répondre, envoyer un message ou garder un historique de conversation, il vous faut une autre solution.
+
+### Quand utiliser une boîte permanente
+
+Choisissez une adresse stable lorsque le compte exige :
+
+- l'envoi d'emails
+- des réponses à un support ou à un contact
+- une relation de long terme avec le service
+
+### En résumé
+
+Une boîte temporaire sert surtout à recevoir, pas à correspondre. Si l'usage suppose de l'envoi ou un suivi durable, prenez un alias ou une boîte permanente.

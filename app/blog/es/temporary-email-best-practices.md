@@ -1,44 +1,39 @@
 ## Buenas prácticas de correo temporal para registros más seguros
 
-El correo temporal es útil, pero usarlo sin método también puede traer problemas de cuenta. Si lo usas para verificar registros, estas prácticas te ayudarán a reducir riesgos y mantener limpia tu bandeja principal.
+El correo temporal es útil cuando quieres un buzón rápido sin exponer tu dirección principal. El error está en tratarlo como un correo normal. Es mejor verlo como una ventana breve para registros de bajo riesgo, pruebas y verificaciones puntuales.
 
-### 1) Úsalo solo en cuentas de bajo riesgo
+### 1) Úsalo solo en cuentas de baja importancia
 
-Un buzón temporal es ideal para:
+El correo temporal encaja bien en pruebas de producto, enlaces de descarga, acceso a cupones, registros en foros y otras cuentas en las que no pondrías datos sensibles. No encaja en banca, trabajo, recuperación ni nada ligado a documentos de identidad.
 
-- Pruebas de producto
-- Descargas de una sola vez
-- Cupones y promociones
-- Registros de comunidad sin datos sensibles
+### 2) Asume desde el principio que el buzón es temporal
 
-Evita usarlo para banca, trabajo, impuestos, trámites legales o cuentas clave de recuperación.
+En `trashmail.space`, los mensajes se conservan hasta 24 horas. Eso basta para verificar, pero no es una capa de almacenamiento. Si un mensaje importa, copia el código, el enlace o el número de referencia cuanto antes.
 
-### 2) Asume que cada buzón temporal dura poco
+### 3) Separa la actividad desechable de tu correo real
 
-En trashmail.space, el contenido se conserva hasta 24 horas. Trátalo como una ventana de caducidad, no como almacenamiento permanente.
+La idea del correo temporal no es solo frenar el spam. También aparta los registros de poco valor del buzón que usas para cuentas importantes, facturas y recuperación.
 
-Si un mensaje es importante, guarda la información de inmediato.
+### 4) Guarda los datos antes de cerrar la pestaña
 
-### 3) Separa la identidad de registro
+Antes de irte, conserva lo que puedas necesitar después:
 
-Usa correo temporal para interacciones desechables y tu correo principal para servicios importantes. Esta separación reduce spam y simplifica la gestión de cuentas.
+- enlaces de activación
+- números de pedido o referencia de soporte
+- nombre del servicio y fecha de registro
 
-### 4) Guarda lo necesario antes de cerrar
+### 5) Espera que algunos sitios rechacen dominios desechables
 
-Antes de salir de la página:
+No todos los servicios aceptan buzones temporales. Si la verificación falla repetidamente, no fuerces el proceso con más reintentos. Para esa cuenta, cambia a un alias o a tu correo habitual.
 
-- Guarda enlaces de activación
-- Copia IDs de referencia y números de soporte
-- Anota el servicio y la fecha de registro
+### 6) Primero refresca, luego regenera
 
-### 5) Ten una ruta de respaldo
+Si un código no aparece, dale un momento al remitente y refresca el buzón antes de cambiar la dirección. Regenerar demasiado pronto es una de las formas más fáciles de perder un mensaje retrasado.
 
-Algunos sitios bloquean dominios temporales. Si la verificación falla varias veces, cambia a un alias o a tu correo permanente para ese servicio.
+### 7) Mueve las cuentas permanentes a una dirección estable
 
-### 6) Actualiza antes de generar otra dirección
-
-Si no llega el código, primero refresca y espera un poco. Muchos remitentes se retrasan. Cambiar la dirección demasiado pronto puede reiniciar el proceso.
+Si decides seguir usando el servicio, cambia el contacto futuro a un alias o a tu correo principal cuando sea posible. El correo temporal sirve para entrar, no para gestionar cuentas a largo plazo.
 
 ### Conclusión
 
-El correo temporal funciona mejor con reglas simples: uso de bajo riesgo, extracción rápida de datos importantes y migración a correo permanente cuando sube la criticidad.
+El correo temporal funciona bien cuando la cuenta es de bajo riesgo, la información importante se guarda enseguida y aceptas pasar a una dirección estable cuando la cuenta empieza a importar.

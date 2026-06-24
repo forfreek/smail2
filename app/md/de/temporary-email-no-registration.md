@@ -1,29 +1,35 @@
 ## Temporäre E-Mail ohne Registrierung
 
-Mit trashmail.space empfängst du E-Mails ohne Konto und ohne Passwort.
+Nutze trashmail ohne Registrierung, wenn du sofortigen Postfach-Zugriff brauchst und kein Konto nur dafür anlegen willst, um eine einzelne Nachricht zu empfangen.
 
-### Typische Szenarien
+Der Vorteil ist nicht nur Geschwindigkeit. Das Postfach bleibt von Anfang an temporär.
 
-- Schnelle Produkttests
-- Einmal-Downloads mit Mailpflicht
-- Kurzfristige Community-Anmeldungen
+### Wann dieser Modus sinnvoll ist
 
-### Vorteile
+- schneller Produkttest
+- Download hinter einem E-Mail-Formular
+- einmalige Community-Anmeldung
+- Einsammeln eines Gutscheincodes ohne dein Hauptpostfach zu belasten
 
-- Weniger Datenpreisgabe
-- Kein Onboarding-Aufwand
-- Saubereres Hauptpostfach
+In all diesen Fällen würde ein vollwertiges E-Mail-Konto vor allem zusätzlichen Aufwand erzeugen.
 
-### Hinweis
+### Warum Leute diesen Ablauf wählen
 
-Nicht für langfristige oder sensible Konten verwenden.
+- keine Kontoerstellung
+- keine Passwort-Einrichtung
+- sofortiger Zugriff im Browser
+- klarere Trennung von der persönlichen Adresse
 
-### Verwandte Seiten
+### Was du dabei beachten solltest
 
-- [24-Stunden Temporäre E-Mail](/temporary-email-24-hours)
-- [Wegwerf-E-Mail für Verifizierung](/disposable-email-for-verification)
-- [Datenschutz](/privacy)
+Ohne Registrierung heißt nicht ohne Grenzen. Wenn die Nachricht wichtig ist, speichere Link, Code oder Referenz sofort.
 
-### Empfohlener Ablauf
+Und wenn der Dienst später wichtig wird, stelle danach auf eine stabile Adresse um.
 
-Für schnelle Anmeldung siehe auch [temporäre E-Mail für Registrierung](/temporary-email-for-registration) und [Online-Temporärmail](/online-temporary-email).
+### Wann etwas anderes besser ist
+
+Für ein dauerhaftes Konto sind ein E-Mail-Alias oder ein permanentes Postfach die bessere Wahl. Temporäre E-Mail ohne Registrierung ist vor allem für kurze Anforderungen gedacht.
+
+### Kurz gesagt
+
+Ohne Registrierung ist sinnvoll, wenn du ein sofortiges Postfach für eine Verifizierung oder eine risikoarme Anmeldung brauchst, ohne daraus eine langfristige Beziehung zu machen.

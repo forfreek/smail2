@@ -27,15 +27,15 @@ type ContactCopy = {
 const CONTACT_COPY: Record<Locale, ContactCopy> = {
 	en: {
 		metaTitle: "Contact | trashmail.space",
-		metaDescription: "Contact trashmail.space support by email.",
+		metaDescription: "Contact trashmail.space by email for support, feedback, or business inquiries.",
 		tag: "Support",
 		title: "Contact support",
 		description:
-			"For support, feedback, or cooperation requests, please email us directly.",
+			"For support, feedback, or business inquiries, email us directly.",
 		emailLabel: "Support email",
 		emailCta: "Send email",
 		faqHint:
-			"Before contacting us, please check the FAQ page first. Your answer may already be there.",
+			"Check the FAQ first if your question is about inbox retention, verification delivery, or receive-only behavior.",
 		faqCta: "Open FAQ",
 		homeCta: "Back to homepage",
 	},

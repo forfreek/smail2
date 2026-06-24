@@ -1,29 +1,35 @@
 ## Email temporaire sans inscription
 
-Avec trashmail.space, recevez des emails sans créer de compte ni mot de passe.
+Utilisez trashmail sans inscription quand vous avez besoin d'un accès immédiat à une boîte et que vous ne voulez pas créer de compte juste pour recevoir un seul message.
 
-### Cas fréquents
+L'intérêt n'est pas seulement la vitesse. La boîte reste temporaire dès le départ.
 
-- Essais rapides d'outils
-- Téléchargements nécessitant un email
-- Inscription ponctuelle à des communautés
+### Quand ce mode est pertinent
 
-### Avantages
+- essai rapide d'un produit
+- téléchargement derrière un formulaire email
+- inscription ponctuelle à une communauté
+- récupération d'un code promo sans encombrer votre boîte principale
 
-- Moins d'exposition de vos données
-- Démarrage immédiat
-- Boîte personnelle plus propre
+Dans tous ces cas, créer un vrai compte email ajouterait surtout de la friction.
 
-### Rappel
+### Pourquoi ce workflow plaît
 
-Ne l'utilisez pas pour des comptes à long terme ou sensibles.
+- aucune création de compte
+- aucune configuration de mot de passe
+- accès immédiat depuis le navigateur
+- meilleure séparation avec votre adresse personnelle
 
-### Guides liés
+### Ce qu'il faut garder en tête
 
-- [Email temporaire 24 heures](/temporary-email-24-hours)
-- [Email jetable pour vérification](/disposable-email-for-verification)
-- [Politique de confidentialité](/privacy)
+Sans inscription ne veut pas dire sans limites. Si le message compte, copiez vite le lien, le code ou la référence utile.
 
-### Parcours recommandé
+Et si le service devient important après l'inscription, changez ensuite vers une adresse stable.
 
-Pour une inscription rapide, consultez aussi [email temporaire pour inscription](/temporary-email-for-registration) et [email temporaire en ligne](/online-temporary-email).
+### Quand choisir autre chose
+
+Pour un compte durable, un alias email ou une boîte permanente reste un meilleur choix. Une boîte temporaire sans inscription est surtout faite pour les besoins courts.
+
+### En résumé
+
+Le sans-inscription est utile quand vous voulez une boîte immédiate pour une vérification ou une inscription de faible risque, sans transformer cela en relation de long terme.

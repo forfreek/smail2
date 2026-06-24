@@ -40,7 +40,7 @@ function getFeedCopy(locale: Locale): {
 	return {
 		title: "trashmail.space Blog",
 		description:
-			"Temporary email guides, troubleshooting, and privacy best practices.",
+			"Temporary email guides for OTP delivery, signup decisions, and disposable inbox troubleshooting.",
 		language: "en-US",
 	};
 }

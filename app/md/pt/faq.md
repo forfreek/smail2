@@ -1,22 +1,31 @@
 ## FAQ do trashmail.space
 
 ### O que é o trashmail.space?
-É um serviço de email temporário para recebimento de curta duração.
+O trashmail.space é uma caixa descartável para cadastros de baixo risco, mensagens de verificação e checagens rápidas de email. O serviço foi feito para receber mensagens rapidamente sem usar sua caixa principal.
 
-### Precisa de cadastro?
-Não, funciona sem registro.
+### O trashmail.space é o mesmo serviço que smail pro ou smailpro?
+Não. O trashmail.space é um serviço independente. A semelhança de nome gera confusão em buscas, mas não significa relação entre produtos.
 
-### Quanto tempo os emails ficam disponíveis?
-Até 24 horas, com remoção automática depois disso.
+### Com que rapidez consigo um endereço?
+Na hora. Basta abrir a página inicial e gerar um endereço sem criar conta.
 
-### Serve para OTP e verificação?
-Sim, é um dos principais usos.
+### Preciso fazer cadastro?
+Não. O trashmail.space funciona sem conta, senha ou perfil.
 
-### Por que o email não chegou?
-Pode haver atraso do remetente, bloqueio de domínio temporário ou erro de digitação no endereço.
+### Por quanto tempo os emails ficam disponíveis?
+Até 24 horas, depois podem ser removidos. Trate a caixa como acesso temporário, não como armazenamento.
 
-### Posso enviar emails?
-Normalmente não. O foco é recebimento.
+### Serve para OTP e links de confirmação?
+Sim. Esse é um dos casos mais adequados para esse tipo de caixa.
 
-### Posso usar em contas importantes?
-Não. Para contas críticas, use email permanente.
+### Por que um email pode não chegar?
+Os motivos mais comuns são atraso do remetente, erro no endereço, reenvio cedo demais ou bloqueio de domínios temporários pelo serviço de destino.
+
+### Posso enviar emails pelo trashmail.space?
+Não assuma isso. O trashmail.space é voltado principalmente para recebimento.
+
+### Posso usar em banco ou conta importante?
+Não. Para banco, trabalho, assuntos jurídicos e recuperação de conta, use uma caixa permanente e segura.
+
+### O que fazer se um site rejeitar email temporário?
+Não insista com várias tentativas seguidas. Para essa conta, mude para um alias de email ou para sua caixa normal.

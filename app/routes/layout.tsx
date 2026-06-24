@@ -35,6 +35,105 @@ const CONTACT_LABELS: Record<Locale, string> = {
 	ar: "اتصل بنا",
 };
 
+const BLOG_LABELS: Record<Locale, string> = {
+	en: "Blog",
+	zh: "博客",
+	es: "Blog",
+	fr: "Blog",
+	de: "Blog",
+	ja: "ブログ",
+	ko: "블로그",
+	ru: "Блог",
+	pt: "Blog",
+	ar: "المدونة",
+};
+
+const LANGUAGE_LABELS: Record<Locale, string> = {
+	en: "Language",
+	zh: "语言",
+	es: "Idioma",
+	fr: "Langue",
+	de: "Sprache",
+	ja: "言語",
+	ko: "언어",
+	ru: "Язык",
+	pt: "Idioma",
+	ar: "اللغة",
+};
+
+const APPEARANCE_LABELS: Record<Locale, string> = {
+	en: "Appearance",
+	zh: "界面",
+	es: "Apariencia",
+	fr: "Apparence",
+	de: "Ansicht",
+	ja: "表示",
+	ko: "화면",
+	ru: "Оформление",
+	pt: "Aparência",
+	ar: "المظهر",
+};
+
+const ARIA_LABELS: Record<
+	Locale,
+	{
+		toggleNavigationMenu: string;
+		siteNavigation: string;
+		selectLanguage: string;
+	}
+> = {
+	en: {
+		toggleNavigationMenu: "Toggle navigation menu",
+		siteNavigation: "Site navigation",
+		selectLanguage: "Select language",
+	},
+	zh: {
+		toggleNavigationMenu: "切换导航菜单",
+		siteNavigation: "站点导航",
+		selectLanguage: "选择语言",
+	},
+	es: {
+		toggleNavigationMenu: "Abrir o cerrar el menú de navegación",
+		siteNavigation: "Navegación del sitio",
+		selectLanguage: "Seleccionar idioma",
+	},
+	fr: {
+		toggleNavigationMenu: "Ouvrir ou fermer le menu de navigation",
+		siteNavigation: "Navigation du site",
+		selectLanguage: "Choisir la langue",
+	},
+	de: {
+		toggleNavigationMenu: "Navigationsmenü ein- oder ausblenden",
+		siteNavigation: "Seitennavigation",
+		selectLanguage: "Sprache auswählen",
+	},
+	ja: {
+		toggleNavigationMenu: "ナビゲーションメニューを切り替える",
+		siteNavigation: "サイトナビゲーション",
+		selectLanguage: "言語を選択",
+	},
+	ko: {
+		toggleNavigationMenu: "탐색 메뉴 열기 또는 닫기",
+		siteNavigation: "사이트 탐색",
+		selectLanguage: "언어 선택",
+	},
+	ru: {
+		toggleNavigationMenu: "Открыть или закрыть меню навигации",
+		siteNavigation: "Навигация по сайту",
+		selectLanguage: "Выбрать язык",
+	},
+	pt: {
+		toggleNavigationMenu: "Abrir ou fechar o menu de navegação",
+		siteNavigation: "Navegação do site",
+		selectLanguage: "Selecionar idioma",
+	},
+	ar: {
+		toggleNavigationMenu: "فتح أو إغلاق قائمة التنقل",
+		siteNavigation: "تنقل الموقع",
+		selectLanguage: "اختر اللغة",
+	},
+};
+
 export async function loader({ params, request }: Route.LoaderArgs) {
 	const { locale, shouldRedirectToDefault, isInvalid } = resolveLocaleParam(
 		params.lang,
@@ -67,10 +166,12 @@ export default function Layout({ loaderData }: Route.ComponentProps) {
 	const copy = getDictionary(locale).layout;
 	const localeEntries = Object.entries(LOCALE_LABELS) as [Locale, string][];
 	const currentLocaleLabel = LOCALE_LABELS[locale];
-	const blogLabel = locale === "zh" ? "博客" : "Blog";
+	const blogLabel = BLOG_LABELS[locale] ?? BLOG_LABELS.en;
 	const contactLabel = CONTACT_LABELS[locale] ?? CONTACT_LABELS.en;
-	const mobileLanguageLabel = locale === "zh" ? "语言" : "Language";
-	const mobileAppearanceLabel = locale === "zh" ? "界面" : "Appearance";
+	const mobileLanguageLabel = LANGUAGE_LABELS[locale] ?? LANGUAGE_LABELS.en;
+	const mobileAppearanceLabel =
+		APPEARANCE_LABELS[locale] ?? APPEARANCE_LABELS.en;
+	const ariaCopy = ARIA_LABELS[locale] ?? ARIA_LABELS.en;
 
 	const localizeLink = (path: string) => toLocalePath(path, locale);
 
@@ -226,7 +327,7 @@ export default function Layout({ loaderData }: Route.ComponentProps) {
 								type="button"
 								className="mobile-menu-trigger"
 								aria-haspopup="menu"
-								aria-label="Toggle navigation menu"
+								aria-label={ariaCopy.toggleNavigationMenu}
 								aria-expanded={isMobileMenuOpen}
 								aria-controls="mobile-nav-panel"
 								onClick={() => {
@@ -261,7 +362,7 @@ export default function Layout({ loaderData }: Route.ComponentProps) {
 								id="mobile-nav-panel"
 								className="mobile-menu-panel"
 								role="menu"
-								aria-label="Site navigation"
+								aria-label={ariaCopy.siteNavigation}
 								aria-hidden={!isMobileMenuOpen}
 								data-open={isMobileMenuOpen ? "true" : "false"}
 							>
@@ -384,7 +485,7 @@ export default function Layout({ loaderData }: Route.ComponentProps) {
 							<div
 								className="language-menu-panel"
 								role="menu"
-								aria-label="Select language"
+								aria-label={ariaCopy.selectLanguage}
 								aria-hidden={!isLanguageMenuOpen}
 								data-open={isLanguageMenuOpen ? "true" : "false"}
 							>
@@ -474,14 +575,6 @@ export default function Layout({ loaderData }: Route.ComponentProps) {
 							>
 								{contactLabel}
 							</Link>
-							<a
-								href="https://smail.now/"
-								target="_blank"
-								rel="noopener noreferrer"
-								className="footer-link"
-							>
-								smail.now
-							</a>
 						</div>
 					</div>
 					<div className="mt-5 border-t border-theme-soft pt-4 text-[11px] text-theme-faint">
