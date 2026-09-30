@@ -143,7 +143,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
 				    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1797920702200847"
      crossorigin="anonymous"></script>
 					<meta charSet="utf-8" />
-			
+			<script src="https://pl29591770.profitableratecpmnetwork.com/63/e2/b0/63e2b08d33512c42fd9996215ba14329.js"></script>
 					
 					<Meta />
 					<Links />
