@@ -144,17 +144,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
      crossorigin="anonymous"></script>
 					<meta charSet="utf-8" />
 					#ad
-			<script src="https://pl29591770.profitableratecpmnetwork.com/63/e2/b0/63e2b08d33512c42fd9996215ba14329.js"></script>
-					<script>
-  atOptions = {
-    'key' : 'beb8b808b5004a90adcbb7a4c9452562',
-    'format' : 'iframe',
-    'height' : 90,
-    'width' : 728,
-    'params' : {}
-  };
-</script>
-<script src="https://www.highrevenueformat.com/beb8b808b5004a90adcbb7a4c9452562/invoke.js"></script> 
+			
+					
 					#ad
 					<Meta />
 					<Links />
